@@ -1,0 +1,72 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+title: Zhuhua Hu (ºú×£»ª)
+subtitle: Professor  <br/>Doctorial Tutor</br>   
+
+# left_side:
+#   background_image: "./assets/huzhuhua.jpg"
+#   background_color: "#F00"
+#   close_button_color: "#F00"
+#   text_color: "#F00"
+
+
+# Side Menu Links
+menu:
+  - text: News
+    link: /
+    icon: ""
+
+  - text: Brief Bio
+    link: /Brief-Bio
+    icon: ""
+
+  - text: Under Review
+    link: /Under-Review
+    icon: ""
+
+  - text: Selected Journal Papers
+    link: /Selected-Journal-Papers
+    icon: ""
+
+  - text: Selected Conference Papers
+    link: /Selected-Conference-Papers
+    icon: ""
+    
+  - text: Open Source
+    link: /open-source
+    icon: ""
+  
+  - text: Group Members
+    link: /Group-Members
+    icon: ""
+    
+
+
+
+
+
+# Socialmedia Icons
+social_icons:
+  - name: mail
+    link: mailto:eagler_hu@hainanu.edu.cn
+    icon: icon brands fa fa-envelope
+
+  - name: 163 mail
+    link: mailto:eagler_hu@163.com
+    icon: fab fa-google
+
+  - name: github
+    link: https://github.com/ZhuhuaHu
+    icon: fab fa-github-square
+
+
+    
