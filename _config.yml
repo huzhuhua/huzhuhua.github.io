@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Zhuhua Hu (胡祝华)
-subtitle: Professor  <br/>Doctorial Tutor</br>   
+subtitle: Professor &nbsp &nbsp Doctorial Tutor <br/>Schoole of Information and Communication Engineering, Hainan University</br>   
 
 # left_side:
 #   background_image: "./assets/huzhuhua.jpg"
