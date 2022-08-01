@@ -1,5 +1,5 @@
 
-# Software and hardware
+# Awards and honors
 
 Some open source stuff is available in the following:
 

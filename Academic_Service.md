@@ -1,5 +1,5 @@
 
-# Software and hardware
+# Academic Service
 
 Some open source stuff is available in the following:
 
