@@ -29,20 +29,20 @@ menu:
     link: /
     icon: ""
     
-  - text: Under Review
-    link: /Under-Review
+  - text: Research(Systematic work)
+    link: /Research
     icon: ""
 
-  - text: Selected Journal Papers
-    link: /Selected-Journal-Papers
+  - text: Publications
+    link: /Publications
     icon: ""
 
-  - text: Selected Conference Papers
-    link: /Selected-Conference-Papers
+  - text: Courses
+    link: /Courses
     icon: ""
     
-  - text: Open Source
-    link: /open-source
+  - text: Software & Hardware
+    link: /Software_Hardware
     icon: ""
   
   - text: Group Members
