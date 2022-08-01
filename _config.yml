@@ -56,6 +56,10 @@ menu:
   - text: Group Members
     link: /Group-Members
     icon: ""
+    
+  - text: Some friends
+    link: /Some_friends
+    icon: ""
 
 # Socialmedia Icons
 social_icons:
@@ -65,7 +69,7 @@ social_icons:
 
   - name: 163 mail
     link: mailto:eagler_hu@163.com
-    icon: fab fa-google
+    icon: fab fa-vcard #fa-google
 
   - name: github
     link: https://github.com/huzhuhua
