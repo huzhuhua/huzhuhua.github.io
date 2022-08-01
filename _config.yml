@@ -29,7 +29,7 @@ menu:
     link: /
     icon: ""
     
-  - text: Research(Systematic work)
+  - text: Research (Systematic work)
     link: /Research
     icon: ""
 
@@ -45,6 +45,14 @@ menu:
     link: /Software_Hardware
     icon: ""
   
+  - text: Awards and honors
+    link: /Awards_honors
+    icon: ""
+    
+  - text: Academic Service
+    link: /Academic_Service
+    icon: ""
+    
   - text: Group Members
     link: /Group-Members
     icon: ""
