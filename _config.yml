@@ -69,7 +69,7 @@ social_icons:
 
   - name: 163 mail
     link: mailto:eagler_hu@163.com
-    icon: fab fa-vcard #fa-google
+    icon: fab fa-google
 
   - name: github
     link: https://github.com/huzhuhua
