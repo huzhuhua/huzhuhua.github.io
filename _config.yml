@@ -21,43 +21,43 @@ subtitle: Professor, &nbsp Doctorial Tutor <br>Hainan University
 
 # Side Menu Links
 menu:
-  - text: About Me
+  - text: About Me (简介)
     link: /Brief-Bio
     icon: ""
 
-  - text: News
+  - text: News （新闻）
     link: /
     icon: ""
     
-  - text: Research (Systematic work)
+  - text: Research (系统性的工作)
     link: /Research
     icon: ""
 
-  - text: Publications
+  - text: Publications (期刊和会议论文发表)
     link: /Publications
     icon: ""
 
-  - text: Courses
+  - text: Courses (建设的课程)
     link: /Courses
     icon: ""
     
-  - text: Software & Hardware
+  - text: Software & Hardware (软硬件Demo系统)
     link: /Software_Hardware
     icon: ""
   
-  - text: Awards and honors
+  - text: Awards and honors (获奖和荣誉)
     link: /Awards_honors
     icon: ""
     
-  - text: Academic Service
+  - text: Academic Service (学术活动)
     link: /Academic_Service
     icon: ""
     
-  - text: Group Members
+  - text: Group Members (团队成员)
     link: /Group-Members
     icon: ""
     
-  - text: Friends
+  - text: Friends (合作者)
     link: /Some_friends
     icon: ""
 
