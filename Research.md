@@ -10,9 +10,9 @@
 (3) Work on intelligent monitoring of agricultural pests and diseases: Based on the study of computer vision algorithms and models, some progress has been made for intelligent segmentation and detection identification of pests and diseases. Firstly, an intelligent segmentation and detection model of disease and insects was constructed. Secondly, the intelligent detection method of disease spores was constructed. Finally, based on these models and methods, a set of intelligent pest and disease detection smart cart with autonomous map building and navigation was developed.<br>
 </p>
 <p style="margin-top: 8px;">
-（1）针对鱼体性状分析开展了一些列的工作，包括：（a）分别基于传统的计算机视觉方法、机器学习方法和基于深度学习的分类和关键点回归方法设计了一些列的算法和模型；（b）开发了可实用的软件系统一套，和智能测量装置一套。以上的工作在经济生产活动中进行了应用示范。<br>
-（2）在遥感图像的目标检测、密度估计及小目标检测方面做出了一些研究结果。<br>
-（3）农业病虫害智能监控工作：在研究计算机视觉算法和模型的基础上，针对病虫和病害的智能分割与检测识别取得了一些进展。首先，构建了病虫的智能分割与检测模型；其次，构建了病害孢子的智能检测方法；最后，基于这些模型和方法研制了一套可自主建图和导航的病虫害智能检测机器小车。<br>
+(1) 针对鱼体性状分析开展了一些列的工作，包括：（a）分别基于传统的计算机视觉方法、机器学习方法和基于深度学习的分类和关键点回归方法设计了一些列的算法和模型；（b）开发了可实用的软件系统一套，和智能测量装置一套。以上的工作在经济生产活动中进行了应用示范。<br>
+(2) 在遥感图像的目标检测、密度估计及小目标检测方面做出了一些研究结果。<br>
+(3) 农业病虫害智能监控工作：在研究计算机视觉算法和模型的基础上，针对病虫和病害的智能分割与检测识别取得了一些进展。首先，构建了病虫的智能分割与检测模型；其次，构建了病害孢子的智能检测方法；最后，基于这些模型和方法研制了一套可自主建图和导航的病虫害智能检测机器小车。<br>
 </p>
 </ol>
 
