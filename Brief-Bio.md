@@ -11,6 +11,6 @@ Previously, I received the BEng degree from the Jilin University in 2002, the ME
 <b>My major engineering application areas</b> include computer vision and image processing, intelligent robotics applications, Internet of Things and smart agriculture, marine information sensing and processing, mobile communications.
 
 <b>Google Scholar</b>: [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=-5x1pM4AAAAJ)<br>
-<b>Detailed CV</b>: [[Detailed CV]](https://sice.hainanu.edu.cn/info/1041/1079.htm)
+<b>Detailed CV</b>: [[Detailed CV]](https://sice.hainanu.edu.cn/info/1143/2522.htm)
 
 <b>Contact me</b>: <a href="mailto:eagler_hu@hainanu.edu.cn">eagler_hu@hainanu.edu.cn</a>
