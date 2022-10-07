@@ -33,16 +33,16 @@ menu:
     link: /Research
     icon: ""
 
-  - text: Publications (期刊和会议论文发表)
+  - text: Publications (成果发表)
     link: /Publications
-    icon: ""
-
-  - text: Courses (建设的课程)
-    link: /Courses
     icon: ""
     
   - text: Software & Hardware (软硬件Demo系统)
     link: /Software_Hardware
+    icon: ""
+    
+  - text: Courses (建设的课程)
+    link: /Courses
     icon: ""
   
   - text: Awards and honors (获奖和荣誉)
@@ -74,6 +74,3 @@ social_icons:
   - name: github
     link: https://github.com/huzhuhua
     icon: fab fa-github-square
-
-
-    
