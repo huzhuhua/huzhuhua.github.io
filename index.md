@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# News
+# News （课题组最近的消息）
 
 <ul>
 <!--
