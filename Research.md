@@ -14,6 +14,7 @@
 (2) 在遥感图像的目标检测、密度估计及小目标检测方面做出了一些研究结果。<br>
 (3) 农业病虫害智能监控工作：在研究计算机视觉算法和模型的基础上，针对病虫和病害的智能分割与检测识别取得了一些进展。首先，构建了病虫的智能分割与检测模型；其次，构建了病害孢子的智能检测方法；最后，基于这些模型和方法研制了一套可自主建图和导航的病虫害智能检测机器小车。<br>
 </p>
+<a href="https://huzhuhua.github.io/Publications#03">Papers and other related achievements（相关成果）</a>
 </ol>
 
 ## 2. Short and long-term intelligent prediction for time-series data, object tracking, and IoT platform and software system construction (针对时序型数据的短、长期智能预测，目标跟踪以及物联网平台和系统构建)
