@@ -1,5 +1,5 @@
 
-# Software and hardware
+# Software and hardware （软硬件系统）
 
 Some open source stuff is available in the following:
 
