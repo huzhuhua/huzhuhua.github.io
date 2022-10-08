@@ -1,5 +1,5 @@
 
-# Some friends
+# Some friends （伙伴）
 
 Some open source stuff is available in the following:
 
