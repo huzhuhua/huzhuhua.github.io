@@ -1,4 +1,4 @@
-# 我的课程建设（Courses）
+# Courses（课程建设）
 Selected Conference Papers:
 ## 2022
 <ol>
