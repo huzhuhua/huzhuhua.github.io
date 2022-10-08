@@ -1,5 +1,5 @@
 
-# Awards and honors
+# Awards and honors （获奖和荣誉）
 
 Some open source stuff is available in the following:
 
