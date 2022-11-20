@@ -13,6 +13,6 @@ layout: default
   
 <p style="margin-top: 6px;"><li>[<font color="red">September, 2022</font>] "<b>KPCRN: Key-Point-Coordinate Regression Network for Fish Characteristics Measurement</b>" has been submitted to <font color="green">IEEE Transactions on Instrumnetation & Measurement (TIM)</font> <font color="blue">(Status: Under Review)</font>.</li></p>
   
-<p style="margin-top: 6px;"><li>[<font color="red">September, 2022</font>] "<b>An Intelligent Measurement Scheme for Basic Characters of Fish in Smart Aquaculture</b>" has been submitted to <font color="green">Computers and Electronics in Agriculture (CEA)</font> <font color="blue">(Status: Minor Revision)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">September, 2022</font>] "<b>An Intelligent Measurement Scheme for Basic Characters of Fish in Smart Aquaculture</b>" has been submitted to <font color="green">Computers and Electronics in Agriculture (CEA)</font> <font color="blue">(Status: Accepted)</font>.</li></p>
 
 </ul>
