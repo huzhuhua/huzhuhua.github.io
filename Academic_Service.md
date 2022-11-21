@@ -8,6 +8,7 @@ Some open source stuff is available in the following:
 <!-- <p style="margin-top: 8px;"><li>Masked Auto-Encoder implementation is <a href = "https://github.com/liujiyuan13/MAE-code">here</a>.</li></p>)-->
 
 </ol>
+<ol>
 <p style="margin-top: 8px;">
 (1)ICMLSC 2022, The 6th International Conference on Machine Learning and Soft Computing, will take place in Haikou, China, from January 15-17, 2022.程序委员会主席
  <bo>
@@ -17,3 +18,4 @@ Some open source stuff is available in the following:
 (5)Multiple reviewers of SCI authoritative journals and conferences.<br>
  
 </p>
+</ol>
