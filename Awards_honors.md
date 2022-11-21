@@ -10,7 +10,7 @@ Some open source stuff is available in the following:
 </ol>
 <ol>
 <p style="margin-top: 8px;">
-(1)Peng Jinlian, Chen Xianyi, <b>Hu Zhuhua, Zheng Zhaohua</b>, Zhong Jiezhuo The first prize of Hainan Provincial Teaching Achievement Award (the third prize), research and practice on the training system of applied engineering talents in network engineering, 2014.12 Certificate No.: 2014003
+(1)Peng Jinlian, Chen Xianyi, <b>Hu Zhuhua</b>, Zheng Zhaohua, Zhong Jiezhuo The first prize of Hainan Provincial Teaching Achievement Award (the third prize), research and practice on the training system of applied engineering talents in network engineering, 2014.12 Certificate No.: 2014003
 (2)Excellent instructor of the second "Internet plus" Innovation and Entrepreneurship Competition in Hainan Province in 2016. <br>
 (3)Won the title of "Excellent Teacher" of Hainan University in 2018.<br>
 (4)In2019,Won the  Excellent Instructor Award for "Artificial Intelligence" Scientific Research in Hainan Universities.<br>
