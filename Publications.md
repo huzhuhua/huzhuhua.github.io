@@ -48,7 +48,7 @@
 
  
   <!--21-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>Yaochi Zhao, Shiguang Liu*, <b>Zhuhua Hu*</b>. <i><u>Focal learning on stranger for imbalanced image segmentation[J].</u></i><font color="green">IET Image Processing,</font> 2022, 16(5): 1305-1323. (SCI 4区， if：2.373，已录用) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Yaochi Zhao, Shiguang Liu*, <b>Zhuhua Hu*</b>. <i><u>Focal learning on stranger for imbalanced image segmentation[J].</u></i><font color="green">IET Image Processing,</font> 2022, 16(5): 1305-1323. (SCI 4区， if：2.373，已录用) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
   
   
