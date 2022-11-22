@@ -76,7 +76,7 @@
 ## 2020
 <ol>
  <!--29-->
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>, Yong Bai, Chong Shen, Xuequn Shi. <i><u>Separate degree based Otsu and signed similarity driven level set for segmenting and counting anthrax spores[J].</u></i><font color="green"> Computers and Electronics in Agriculture,</font> vol. 169: 105230, 2020.  (SCI, 2区，IF: 5.565) 基金：Grant No. 61963012</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>, Yong Bai, Chong Shen, Xuequn Shi. <i><u>Separate degree based Otsu and signed similarity driven level set for segmenting and counting anthrax spores[J].</u></i><font color="green"> Computers and Electronics in Agriculture,</font> vol. 169: 105230, 2020.  (SCI, 2区，IF: 5.565) 基金：Grant No. 61963012</li></p>
 
  <!--30-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Chuang Yu, Xiang Fan, <b>Zhuhua Hu</b>*, Xin Xia, Yaochi Zhao, Yong Bai and Ruoqing Li. <i><u>Segmentation and Measurement Scheme for Fish Morphological Features Based on Mask R-CNN [J].</u></i><font color="green"> Information Processing in Agriculture,</font> 2020, 7(4): 523-534.. (EI) 基金：Grant No. 61963012</li></p>
