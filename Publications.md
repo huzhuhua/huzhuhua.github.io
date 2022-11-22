@@ -6,6 +6,20 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xihong Yang, Xiaochang Hu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/TNNLS22-Interpolation%20based%20Contrastive%20Learning%20for%20Few%20Label%20SemiSupervised%20Learning.pdf">[PDF]</a></li></p> 
 -->
  
+ <!--1-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> Yuexin Fu, Bing Han, <>bZhuhua Hu</b>, Xiuqiang Shen, Yaochi Zhao. <i><u>CBAM-SLAM: A semantic SLAM based on attention module in dynamic environment [C].</u></i><font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
+ 
+ <!--2-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Pan Gao, <b>Zhuhua Hu</b>.<i><u> ASHN For Multi-Human Pose Estimation [C].</u></i> <font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
+ 
+<!--3-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yongyi Ye, <b>Zhuhua Hu</b>.<i><u> ECI: Effective Channel Interaction for Person Search [C].</u></i> <font color="green">The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
+
+<!--4-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Hui Ma, <b>Zhuhua Hu</b>, Yan Zheng.<i><u> A Virtual Try-on Model with Enhanced Feature Representation Capability [C].</u></i> <font color="green">The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
+  
+  
+  
  </ol>
 ## 2021
  <ol>
