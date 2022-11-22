@@ -31,15 +31,18 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yu Chuang, Liu Yunpeng,Wu Shuhang, <b>Hu Zhuhua*</b>, Xia Xin, Lan Deyan, Liu Xin. <i><u>Infrared Small Target Detection Based on Multiscale Local Contrast Learning Networks[J].</u></i> <font color="green">Infrared Physics & Technology,</font> 2022: 104107. （中科院3区 SCI，if：2.638）基金：(Grant no. 61963012 and Grant no. 62161010)</li></p>
  
 <!--9-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Lewei Xu,<b>Zhuhua Hu*</b>, Cong Zhang, Wei Wu.<i><u> Remote Sensing Image Segmentation of Mariculture Cage Using Ensemble Learning Strategy[J].</u></i><font color="green"> Applied Sciences-Basel,</font> 2022, 12(16): 8234. (中科院SCI 3区，if 2.838) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Lewei Xu,<b>Zhuhua Hu*</b>, Cong Zhang, Wei Wu.<i><u> Remote Sensing Image Segmentation of Mariculture Cage Using Ensemble Learning Strategy[J].</u></i><font color="green"> Applied Sciences-Basel,</font> 2022, 12(16): 8234. (中科院SCI 3区，if 2.838) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
 
 <!--10-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yu, Chuang; Liu, yunpeng; Xia, Xin*;<b> Hu, Zhuhua*</b>;<i><u> Fu, Shengpeng. Precise segmentation of remote sensing cage images based on SegNet and voting mechanism[J],</u></i><font color="green"> Applied Engineering in Agriculture,</font> 2022：0. (SCI, 4区, 0.985) 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yu, Chuang; Liu, yunpeng; Xia, Xin*;<b> Hu, Zhuhua*</b>;<i><u> Fu, Shengpeng. Precise segmentation of remote sensing cage images based on SegNet and voting mechanism[J],</u></i><font color="green"> Applied Engineering in Agriculture,</font> 2022：0. (SCI, 4区, 0.985) </li></p>
 
 <!--11-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, Yunpeng Liu, Shuhang Wu, Xin Xia, <b>Zhuhua Hu</b>, Deyan Lan and Xin Liu,<i><u>Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection[J].</u></i><font color="green"> IEEE GEOSCIENCE AND REMOTE SENSING LETTERS,</font> 2022. (中科院SCI 3区，if 3.966) 基金：Grant 61963012 and Grant 62161010
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, Yunpeng Liu, Shuhang Wu, Xin Xia, <b>Zhuhua Hu</b>, Deyan Lan and Xin Liu,<i><u>Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection[J].</u></i><font color="green"> IEEE GEOSCIENCE AND REMOTE SENSING LETTERS,</font> 2022. (中科院SCI 3区，if 3.966) 基金：Grant 61963012 and Grant 62161010</li></p>
 
-<!--12-->
+<!--14-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, Yunpeng Liu*, <b>Zhuhua Hu</b>, Xin Xia.<i><u> Precise segmentation and measurement of inclined fish’s features based on U-net and fish morphological characteristics[J].</u></i><font color="green"> Applied Engineering in Agriculture,</font> 2022, 38(1): 37-48. (SCI, 中科院4区，if: 0.985) 基金：Grant no. 61963012 and 62161010</li></p>
+
+
 
  
  
@@ -54,7 +57,11 @@
 <!--
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: <i><u>An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TYCB</b>)</font>. 43(2): 557-569 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Radius-incorporated-MKL-algorithm">[Code]</a></li></p>
 -->
-
+<!--15-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yu Chuang, Liu Yunpeng,<b> Hu Zhuhua*</b>, Xia Xin*.<i><u> Accurate segmentation of remote sensing cages based on U-Net and voting mechanism [C].</u></i><font color="green">Proceedings of the "Intelligent Awareness and Cross domain Collaboration" System Research Frontier Forum,</font> Changchun, China, No. 2021.09.25 – 27, 2022.(EI)  基金：Grant no. 61963012  October 28, 2021 - October 31, 2021</li></p>
+  
+  
+  
  </ol>
 ## 2020
 <ol>
