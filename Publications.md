@@ -49,6 +49,7 @@
  
   <!--21-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Yaochi Zhao, Shiguang Liu*, <b>Zhuhua Hu*</b>. <i><u>Focal learning on stranger for imbalanced image segmentation[J].</u></i><font color="green">IET Image Processing,</font> 2022, 16(5): 1305-1323. (SCI 4区， if：2.373，已录用) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+
  
   
   
@@ -105,8 +106,14 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Longqin Gong, <b>Zhuhua Hu*</b>, Xaioyi Zhou.<i><u>A few samples underwater fish tracking method based on semi-supervised and attention mechanism,</u></i><font color="green">  2022 6th International Conference on Robotics, Control and Automation (ICRCA),</font> Xiamen, China, February 26-28, Pages 18-22, 2022. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
 <!--20-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>.<i><u>Dynamically balancing class losses in imbalanced deep learning[J].</u></i><font color="green"> Electronics Letters,</font> 2022, 58(5): 203-206. (SCI) 基金：Grant No. 61963012 and Grant no. 62161010
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>.<i><u>Dynamically balancing class losses in imbalanced deep learning[J].</u></i><font color="green"> Electronics Letters,</font> 2022, 58(5): 203-206. (SCI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
 
+  
+
+
+
+ 
  
  
  
@@ -119,6 +126,11 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: <i><u>An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TYCB</b>)</font>. 43(2): 557-569 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Radius-incorporated-MKL-algorithm">[Code]</a></li></p>
 -->
 
+ <!--22-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yuexin Fu, <b>Zhuhua Hu*</b>, Yaochi Zhao, Mengxing Huang*.  <i><u>A Long-Term Water Quality Prediction Method Based on the Temporal Convolutional Network in Smart Mariculture[J].</u></i> Water, 2021, 13(20): 2907. (SCI, 中科院3区，if：3.103) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+ <!--23-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Xianghui Li, Xin Xia,<b>Zhuhua Hu*</b>, Bing Han, Yaochi Zhao*. <i><u>Intelligent Detection of Underwater Fish Speed Characteristics Based on Deep Learning [C].</u></i>  <font color="green">the 5th Asian Conference on Artificial Intelligence Technology in Haikou,China (ACAIT 2021),</font> Haikou,China, October 29-31 2021. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  </ol>
 ## 2020
 <ol>
