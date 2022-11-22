@@ -48,7 +48,7 @@
 
  
   <!--21-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Yaochi Zhao, Shiguang Liu*, <b>Zhuhua Hu*</b>. <i><u>Focal learning on stranger for imbalanced image segmentation[J].</u></i><font color="green">IET Image Processing,</font> 2022, 16(5): 1305-1323. (SCI 4区， if：2.373，已录用) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*, <b>Zhuhua Hu*</b>. <i><u>Focal learning on stranger for imbalanced image segmentation[J].</u></i><font color="green">IET Image Processing,</font> 2022, 16(5): 1305-1323. (SCI 4区， if：2.373，已录用) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
 
  
   
@@ -62,6 +62,12 @@
 -->
 <!--15-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yu Chuang, Liu Yunpeng,<b> Hu Zhuhua*</b>, Xia Xin*.<i><u> Accurate segmentation of remote sensing cages based on U-Net and voting mechanism [C].</u></i><font color="green">Proceedings of the "Intelligent Awareness and Cross domain Collaboration" System Research Frontier Forum,</font> Changchun, China, No. 2021.09.25 – 27, 2022.(EI)  基金：Grant no. 61963012  October 28, 2021 - October 31, 2021</li></p>
+ 
+ 
+ 
+ <!--25-->
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, <b>Zhuhua Hu*</b>, Bing Han, Peng Wang, Yaochi Zhao*, Huaming Wu. <i><u>Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-net [J].</u></i><font color="green"> Electronics,</font> 2021, 10(12), 1426. (SCI, 中科院3区，if：2.412) 基金：Grant No. 61963012</li></p>
+ 
   
  <!---->
   
@@ -108,6 +114,9 @@
 <!--20-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>.<i><u>Dynamically balancing class losses in imbalanced deep learning[J].</u></i><font color="green"> Electronics Letters,</font> 2022, 58(5): 203-206. (SCI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
+ <!--26-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font><b>Zhuhua Hu</b>, Ruoqing Li, Xin Xia, Chuang Yu, Xiang Fan, Yaochi Zhao. <i><u>A method overview in smart aquaculture[J].</u></i> <font color="green">Environmental Monitoring and Assessment,</font> 2020, 192(8): 1-25. (SCI, 中科院4区，IF: 1.959) 基金：Grant No. 61963012
+ 
 
   
 
@@ -131,6 +140,14 @@
  
  <!--23-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Xianghui Li, Xin Xia,<b>Zhuhua Hu*</b>, Bing Han, Yaochi Zhao*. <i><u>Intelligent Detection of Underwater Fish Speed Characteristics Based on Deep Learning [C].</u></i>  <font color="green">the 5th Asian Conference on Artificial Intelligence Technology in Haikou,China (ACAIT 2021),</font> Haikou,China, October 29-31 2021. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+ <!--24--><p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Xinyu Xie, Jiaying Wang, <b>Zhuhua Hu*</b>, Yaochi Zhao*. <i><u>Intelligent Detection of Mango Disease Spores Based on Mask Scoring R-CNN [C].</u></i>  <font color="green">the 5th Asian Conference on Artificial Intelligence Technology in Haikou,China (ACAIT 2021),</font> Haikou,China, October 29-31 2021. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+
+ 
+ 
+ 
+ 
  </ol>
 ## 2020
 <ol>
