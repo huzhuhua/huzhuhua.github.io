@@ -16,6 +16,5 @@ Some open source stuff is available in the following:
 (3)the 2023 9th International Conference on Computing and Data Engineering (ICCDE 2023).大会主席<br>
 (4)IEEE Senior Member，CCF Senior Member.<br>
 (5)Multiple reviewers of SCI authoritative journals and conferences.<br>
- 
 </p>
 </ol>
