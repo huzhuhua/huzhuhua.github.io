@@ -30,6 +30,8 @@
 <!--8-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yu Chuang, Liu Yunpeng,Wu Shuhang, <b>Hu Zhuhua</b>, Xia Xin, Lan Deyan, Liu Xin. <i><u>Infrared Small Target Detection Based on Multiscale Local Contrast Learning Networks[J].</u></i> <font color="green">Infrared Physics & Technology,</font> 2022: 104107. （中科院3区 SCI，if：2.638）基金：(Grant no. 61963012 and Grant no. 62161010)</li></p>
  
+
+ 
  
  
  
