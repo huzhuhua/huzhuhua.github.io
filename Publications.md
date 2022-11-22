@@ -42,7 +42,9 @@
 <!--14-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, Yunpeng Liu*, <b>Zhuhua Hu</b>, Xin Xia.<i><u> Precise segmentation and measurement of inclined fish’s features based on U-net and fish morphological characteristics[J].</u></i><font color="green"> Applied Engineering in Agriculture,</font> 2022, 38(1): 37-48. (SCI, 中科院4区，if: 0.985) 基金：Grant no. 61963012 and 62161010</li></p>
 
-
+ 
+ <!--18-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yutong Dai, Chong Zhang, <b>Zhuhua Hu*</b>, Yaochi Zhao, <i><u>RF2Net: Salient Object Detection Using Level Set Loss and Reverse Attention Fusion Feed Network[C].</u></i><font color="green"> The 14th International Conference on Digital Image Processing (ICDIP 2022),</font> Wuhan, China, 2022.5.20-23. (EI)  基金：Grant no.ZDYF2022SHFZ039), National Natural Science Foundation of China (Grant No. 61963012 and Grant no. 62161010)
 
  
  
@@ -60,7 +62,7 @@
 <!--15-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yu Chuang, Liu Yunpeng,<b> Hu Zhuhua*</b>, Xia Xin*.<i><u> Accurate segmentation of remote sensing cages based on U-Net and voting mechanism [C].</u></i><font color="green">Proceedings of the "Intelligent Awareness and Cross domain Collaboration" System Research Frontier Forum,</font> Changchun, China, No. 2021.09.25 – 27, 2022.(EI)  基金：Grant no. 61963012  October 28, 2021 - October 31, 2021</li></p>
   
-  
+ <!---->
   
  </ol>
 ## 2020
@@ -92,6 +94,23 @@
 <!--
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://www.aaai.org/AAAI22Papers/AAAI-3353.LiangW.pdf">[PDF]</a><a href = "https://github.com/wxliang/RG-MVC">[Code]</a></li></p>
 -->
+ 
+ <!--16-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Longqin Gong,<b> Zhuhua Hu*</b>, Xaioyi Zhou.<i><u> A real time video object tracking method for fish [C].</u></i> <font color="green">the 6th International Conference on Machine Learning and Soft Computing (ICMLSC 2022),</font> Haikou, China, January 15-17, 2022. (EI)  基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+ <!--17-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font><b>Zhuhua Hu</b>, Xianghui Li, Xinyu Xie, Yaochi Zhao*.<i><u> Abnormal Behavior Recognition of Underwater Fish Body Based on C3D Model [C].</u></i><font color="green"> the 6th International Conference on Machine Learning and Soft Computing (ICMLSC 2022),</font> Haikou, China, January 15-17, 2022. (EI)  基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+ <!--19-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Longqin Gong, <b>Zhuhua Hu*</b>, Xaioyi Zhou. <i><u>A few samples underwater fish tracking method based on semi-supervised and attention mechanism,</u></i><font color="green">  2022 6th International Conference on Robotics, Control and Automation (ICRCA),</font> Xiamen, China, February 26-28, Pages 18-22, 2022. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
  
 </ol>
 ## 2021
