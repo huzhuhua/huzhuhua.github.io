@@ -66,15 +66,20 @@
  
  
  <!--25-->
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, <b>Zhuhua Hu*</b>, Bing Han, Peng Wang, Yaochi Zhao*, Huaming Wu. <i><u>Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-net [J].</u></i><font color="green"> Electronics,</font> 2021, 10(12), 1426. (SCI, 中科院3区，if：2.412) 基金：Grant No. 61963012</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, <b>Zhuhua Hu*</b>, Bing Han, Peng Wang, Yaochi Zhao*, Huaming Wu. <i><u>Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-net [J].</u></i><font color="green"> Electronics,</font> 2021, 10(12), 1426. (SCI, 中科院3区，if：2.412) 基金：Grant No. 61963012</li></p>
  
   
- <!---->
+ <!--31-->
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Chuang Yu, Zhuhua Hu*, Ruoqing Li, Xin Xia, Yaochi Zhao, Xiang Fan, Yong Bai. <i><u>Segmentation and Density Statistics of Mariculture Cages from Remote Sensing Images Based on Mask R-CNN [J].</u></i><font color="green"> Information Processing in Agriculture,</font>  2021, (EI) 基金：Grant No. 61963012 </li></p>
   
  </ol>
 ## 2020
 <ol>
+ <!--29-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>, Yong Bai, Chong Shen, Xuequn Shi. <i><u>Separate degree based Otsu and signed similarity driven level set for segmenting and counting anthrax spores[J].</u></i><font color="green"> Computers and Electronics in Agriculture,</font> vol. 169: 105230, 2020.  (SCI, 2区，IF: 5.565) 基金：Grant No. 61963012</li></p>
 
+ <!--30-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Chuang Yu, Xiang Fan, <b>Zhuhua Hu</b>*, Xin Xia, Yaochi Zhao, Yong Bai and Ruoqing Li. <i><u>Segmentation and Measurement Scheme for Fish Morphological Features Based on Mask R-CNN [J].</u></i><font color="green"> Information Processing in Agriculture,</font> 2020, 7(4): 523-534.. (EI) 基金：Grant No. 61963012</li></p>
 </ol>
 ## 2019
 <ol>
@@ -115,7 +120,7 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>.<i><u>Dynamically balancing class losses in imbalanced deep learning[J].</u></i><font color="green"> Electronics Letters,</font> 2022, 58(5): 203-206. (SCI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
  <!--26-->
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font><b>Zhuhua Hu</b>, Ruoqing Li, Xin Xia, Chuang Yu, Xiang Fan, Yaochi Zhao. <i><u>A method overview in smart aquaculture[J].</u></i> <font color="green">Environmental Monitoring and Assessment,</font> 2020, 192(8): 1-25. (SCI, 中科院4区，IF: 1.959) 基金：Grant No. 61963012
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font><b>Zhuhua Hu</b>, Ruoqing Li, Xin Xia, Chuang Yu, Xiang Fan, Yaochi Zhao. <i><u>A method overview in smart aquaculture[J].</u></i> <font color="green">Environmental Monitoring and Assessment,</font> 2020, 192(8): 1-25. (SCI, 中科院4区，IF: 1.959) 基金：Grant No. 61963012</li></p>
  
 
   
