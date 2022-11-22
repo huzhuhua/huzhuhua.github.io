@@ -15,7 +15,7 @@ Some open source stuff is available in the following:
 (3)Won the title of "Excellent Teacher" of Hainan University in 2018.<br>
 (4)In2019,Won the  Excellent Instructor Award for "Artificial Intelligence" Scientific Research in Hainan Universities.<br>
 (5)Won the "Advanced Member" Award of Hainan Computer Society in 2020.<br>
-(6)First Prize of Hainan Provincial Science and Technology Progress Award, "Key Technologies and Applications of Multi source Information Collaborative Perception and Fusion for Offshore Environmental Monitoring", Hainan Provincial People's Government, Certificate No.: 2020-J-1-20-R082021.11.<br
+(6)First Prize of Hainan Provincial Science and Technology Progress Award, "Key Technologies and Applications of Multi source Information Collaborative Perception and Fusion for Offshore Environmental Monitoring", Hainan Provincial People's Government, Certificate No.: 2020-J-1-20-R082021.11.<br>
 </p>
  
 <p style="margin-top: 8px;">
