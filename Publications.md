@@ -44,11 +44,11 @@
 
  
  <!--18-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yutong Dai, Chong Zhang, <b>Zhuhua Hu*</b>, Yaochi Zhao, <i><u>RF2Net: Salient Object Detection Using Level Set Loss and Reverse Attention Fusion Feed Network[C].</u></i><font color="green"> The 14th International Conference on Digital Image Processing (ICDIP 2022),</font> Wuhan, China, 2022.5.20-23. (EI)  基金：Grant no.ZDYF2022SHFZ039), National Natural Science Foundation of China (Grant No. 61963012 and Grant no. 62161010)
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Yutong Dai, Chong Zhang, <b>Zhuhua Hu*</b>, Yaochi Zhao, <i><u>RF2Net: Salient Object Detection Using Level Set Loss and Reverse Attention Fusion Feed Network[C].</u></i><font color="green"> The 14th International Conference on Digital Image Processing (ICDIP 2022),</font> Wuhan, China, 2022.5.20-23. (EI)  基金：Grant no.ZDYF2022SHFZ039), National Natural Science Foundation of China (Grant No. 61963012 and Grant no. 62161010)</li></p>
 
  
- 
- 
+  <!--21-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>Yaochi Zhao, Shiguang Liu*, <b>Zhuhua Hu*</b>. <i><u>Focal learning on stranger for imbalanced image segmentation[J].</u></i><font color="green">IET Image Processing,</font> 2022, 16(5): 1305-1323. (SCI 4区， if：2.373，已录用) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
   
   
@@ -102,10 +102,10 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font><b>Zhuhua Hu</b>, Xianghui Li, Xinyu Xie, Yaochi Zhao*.<i><u> Abnormal Behavior Recognition of Underwater Fish Body Based on C3D Model [C].</u></i><font color="green"> the 6th International Conference on Machine Learning and Soft Computing (ICMLSC 2022),</font> Haikou, China, January 15-17, 2022. (EI)  基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
  <!--19-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Longqin Gong, <b>Zhuhua Hu*</b>, Xaioyi Zhou. <i><u>A few samples underwater fish tracking method based on semi-supervised and attention mechanism,</u></i><font color="green">  2022 6th International Conference on Robotics, Control and Automation (ICRCA),</font> Xiamen, China, February 26-28, Pages 18-22, 2022. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Longqin Gong, <b>Zhuhua Hu*</b>, Xaioyi Zhou.<i><u>A few samples underwater fish tracking method based on semi-supervised and attention mechanism,</u></i><font color="green">  2022 6th International Conference on Robotics, Control and Automation (ICRCA),</font> Xiamen, China, February 26-28, Pages 18-22, 2022. (EI) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
  
- 
- 
+<!--20-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>.<i><u>Dynamically balancing class losses in imbalanced deep learning[J].</u></i><font color="green"> Electronics Letters,</font> 2022, 58(5): 203-206. (SCI) 基金：Grant No. 61963012 and Grant no. 62161010
 
  
  
