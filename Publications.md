@@ -116,15 +116,34 @@ DOI: 10.1145/3330393.3330423
  
  
 </ol>
-## 2015
+## 2016
 <ol>
+<!--46-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>
+Yaochi Zhao, <b>Zhuhua Hu*</b>, Yong Bai, Xingzi Liu and Xiyang Liu.<i><u> Multiple Visual Objects Segmentation Based on Adaptive Otsu and Improved DRLSE[C].</u></i>  <font color="green">12th International Conference on Intelligent Computing, ICIC 2016;</font> Lanzhou, China: Springer Verlag Part Ⅲ; 2016. p. 707-716. </li></p>
+
 
 </ol>
+## 2015
+<ol> 
+<!--47-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI、中文核心]</b></font>
+赵瑶池, <b>胡祝华*</b>, 白勇, 等. <i><u>基于纹理差异度引导的 DRLSE 病虫害图像精准分割方法[J].</u></i>  <font color="green">农业机械学报,</font> 2015,46(2):14-19.</li></p>
+ 
+ <!--48->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI、中文核心]</b></font>
+赵瑶池, <b>胡祝华*</b>.  <i><u>基于对数相似度约束 Otsu 的自然场景病害果实图像分割[J].</u></i> <font color="green">农业机械学报,</font> 2015, 46(11): 9-15. </li></p>
+</ol>
+
 ## 2014
 <ol>
 
 <!--44-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font><b>胡祝华</b>,赵瑶池*,程杰仁,等.<i><u>基于改进DRLSE的运动目标分割方法[J].</u></i><font color="green">浙江大学学报：工学版，</font>2014,48(8):1488~1495.（EI源刊）.</li></p>
+ 
+<!--45-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Zhao Yaochi, <b>Hu Zhuhua*</b>, Yang X, Bai Y. <i><u>Moving object detection method with temporal and spatial variation based on multi-info fusion[C].</u></i> <font color="green">10th International Conference on Intelligent Computing, ICIC </font>2014; Taiyuan, China: Springer Verlag; 2014. pp. 387-397.</li></p>
+ 
 </ol>
 <hr>
 
