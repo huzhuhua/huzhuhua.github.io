@@ -144,6 +144,7 @@ Yaochi Zhao, <b>Zhuhua Hu*</b>, Yong Bai, Xingzi Liu and Xiyang Liu.<i><u> Multi
 <!--45-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Zhao Yaochi, <b>Hu Zhuhua*</b>, Yang X, Bai Y. <i><u>Moving object detection method with temporal and spatial variation based on multi-info fusion[C].</u></i> <font color="green">10th International Conference on Intelligent Computing, ICIC </font>2014; Taiyuan, China: Springer Verlag; 2014. pp. 387-397.</li></p>
  
+ 
 </ol>
 <hr>
 
@@ -233,7 +234,8 @@ Yaochi Zhao, <b>Zhuhua Hu*</b>, Yong Bai, Xingzi Liu and Xiyang Liu.<i><u> Multi
 </ol>
 ## 2015
 <ol>
-
+ <!--54-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>赵瑶池, <b>胡祝华</b>.<i><u> 基于嵌入式 Linux 平台的网络视频点播系统[J]. </u></i><font color="green">西部广播电视,</font> 2015 (17): 256-256.
 </ol>
 ## 2014
 <ol>
@@ -248,6 +250,13 @@ Yaochi Zhao, <b>Zhuhua Hu*</b>, Yong Bai, Xingzi Liu and Xiyang Liu.<i><u> Multi
 <!--
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://www.aaai.org/AAAI22Papers/AAAI-3353.LiangW.pdf">[PDF]</a><a href = "https://github.com/wxliang/RG-MVC">[Code]</a></li></p>
 -->
+  <!--5G&6G移动通信方向、频谱感知  2-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>
+ Kejia Huo, <b>Zhuhua Hu*</b>, Dake Liu. <i><u>Design and Implementation of Shared Memory for Turbo and LDPC Code Interleaver[J],</u></i> <font color="green">Wireless Communications and Mobile Computing,</font>  2022. (SCI 4区) 基金：Grant No. 61963012 and Grant no. 62161010</li></p>
+ 
+ 
+
+ 
  
 </ol>
 ## 2021
@@ -255,7 +264,19 @@ Yaochi Zhao, <b>Zhuhua Hu*</b>, Yong Bai, Xingzi Liu and Xiyang Liu.<i><u> Multi
 <!--
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: <i><u>An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TYCB</b>)</font>. 43(2): 557-569 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Radius-incorporated-MKL-algorithm">[Code]</a></li></p>
 -->
+ 
+  <!--5G&6G移动通信方向、频谱感知  3-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> 
+Kejia Huo, <b>Zhuhua Hu*</b>, Dake Liu*. <i><u>Rate Matching and Interleaved Hardware Sharing Design [C].</u></i><font color="green">the 2021 IEEE the 4th International Conference on Electronics and Communication Engineering (ICECE2021),</font> IEEE, Xi'an, China, December 17-19, 2021. (EI) 基金：(Grant No. 61963012 and Grant No. 62161010).</li></p>
+  
+<!--5G&6G移动通信方向、频谱感知  4-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>  
+Xinyu Xie, <b>Zhuhua Hu*</b>, Min Chen, Yaochi Zhao, Yong Bai. <i><u>An Active and Passive Reputation Method for Secure Wideband Spectrum Sensing Based on Blockchain[J].</u></i><font color="green"> Electronics,</font> 2021, 10(11): 1346. (SCI, 中科院3区，if：2.412) 基金：Grant No. 61963012</li></p>
+  
 
+  
+  
+  
  </ol>
 ## 2020
 <ol>
