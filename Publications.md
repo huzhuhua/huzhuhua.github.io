@@ -7,7 +7,7 @@
 -->
  
  <!--1-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> Yuexin Fu, Bing Han, <>bZhuhua Hu*</b>, Xiuqiang Shen, Yaochi Zhao. <i><u>CBAM-SLAM: A semantic SLAM based on attention module in dynamic environment [C].</u></i><font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> Yuexin Fu, Bing Han, <b>Zhuhua Hu*</b>, Xiuqiang Shen, Yaochi Zhao. <i><u>CBAM-SLAM: A semantic SLAM based on attention module in dynamic environment [C].</u></i><font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
  
  <!--2-->
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Pan Gao, <b>Zhuhua Hu*</b>.<i><u> ASHN For Multi-Human Pose Estimation [C].</u></i> <font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.</li></p>
@@ -79,21 +79,42 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Yaochi Zhao, Shiguang Liu*,<b>Zhuhua Hu</b>, Yong Bai, Chong Shen, Xuequn Shi. <i><u>Separate degree based Otsu and signed similarity driven level set for segmenting and counting anthrax spores[J].</u></i><font color="green"> Computers and Electronics in Agriculture,</font> vol. 169: 105230, 2020.  (SCI, 2区，IF: 5.565) 基金：Grant No. 61963012</li></p>
 
  <!--30-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b>/font>Chuang Yu, Xiang Fan, <b>Zhuhua Hu</b>*, Xin Xia, Yaochi Zhao, Yong Bai and Ruoqing Li. <i><u>Segmentation and Measurement Scheme for Fish Morphological Features Based on Mask R-CNN [J].</u></i><font color="green"> Information Processing in Agriculture,</font> 2020, 7(4): 523-534.. (EI) 基金：Grant No. 61963012</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>Chuang Yu, Xiang Fan, <b>Zhuhua Hu</b>*, Xin Xia, Yaochi Zhao, Yong Bai and Ruoqing Li. <i><u>Segmentation and Measurement Scheme for Fish Morphological Features Based on Mask R-CNN [J].</u></i><font color="green"> Information Processing in Agriculture,</font> 2020, 7(4): 523-534.. (EI) 基金：Grant No. 61963012</li></p>
 </ol>
 ## 2019
 <ol>
   <!--33-->
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Jiaying Wang, Yaochi Zhao, Yu Wang, Wei Chen, Hui Li, Yugui Han and <b>Zhuhua Hu*</b>. <i><u>Marked Watershed Algorithm Combined with Morphological Preprocessing Based Segmentation of Adherent Spores [C].</u></i><font color="green">International Conference in Communications, Signal Processing, and Systems. Springer, Singapore,</font> 2019: 1316-1323. (EI会议)</li></p>
  
- <<!--35-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b>/font>
- Yaochi Zhao, Yu Wang, Jiaying Wang,<b>Zhuhua Hu*</b>, Fusheng Lin, Mengyao Xu.  <i><u>GMM and DRLSE Based Detection and Segmentation of Pests: A Case Study [C].</u></i><font color="green"> 2019 4th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2019),</font> Guang Zhou, China, May 10-12, 2019. (EI会议) 
+ <!--35-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>
+ Yaochi Zhao, Yu Wang, Jiaying Wang,<b>Zhuhua Hu*</b>, Fusheng Lin, Mengyao Xu.  <i><u>GMM and DRLSE Based Detection and Segmentation of Pests: A Case Study [C].</u></i><font color="green"> 2019 4th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2019),</font> Guang Zhou, China, May 10-12, 2019. (EI会议) </li></p>
 DOI: 10.1145/3330393.3330423
 </ol>
 ## 2018
 <ol>
-
+<!--39-->
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Cheng, J., Liu, B., Tang, X., <b>Hu, Z.</b>, & Yin, J., <i><u>Traffic flow detection method based on vertical virtual road induction line.</u></i><font color="green"> International Journal of Embedded Systems,</font> 2018, 10(6), 518-525. (EI)</li></p>
+ 
+ 
+ 
+ 
+</ol>
+## 2017
+<ol>
+ <!--40--> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[中文核心]</b></font><b>胡祝华</b>, 曹路, 张逸然, 赵瑶池*. <i><u>基于图像处理和线性拟合的鱼体尾柄测量方法研究[J].</u></i><font color="green"> 渔业现代化,</font> 2017, 44(2): 43-49.（中文核心）</li></p>
+ 
+ <!--41--> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[中文核心]</b></font><b>胡祝华</b>，曹路，张逸然，赵瑶池*，黄梦醒，谢明山.<i><u>基于计算机视觉的卵形鲳鲹眼部特征检测方法研究[J].</u></i><font color="green">渔业现代化，</font>2017, 44(4):15-23.（中文核心）</li></p>
+ 
+ 
+<!--42-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[中文核心]</b></font><b>胡祝华</b>，张逸然，赵瑶池*，曹路，白勇，黄梦醒. <i><u>权重约束AdaBoost鱼眼识别及改进Hough圆变换的瞳孔智能测量[J],</u></i> <font color="green">农业工程学报，</font>2017, 33(23):226-232.（EI、CSCD、中文核心）</li></p>
+ 
+ 
+ 
 </ol>
 ## 2015
 <ol>
@@ -102,6 +123,8 @@ DOI: 10.1145/3330393.3330423
 ## 2014
 <ol>
 
+<!--44-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font><b>胡祝华</b>,赵瑶池*,程杰仁,等.<i><u>基于改进DRLSE的运动目标分割方法[J].</u></i><font color="green">浙江大学学报：工学版，</font>2014,48(8):1488~1495.（EI源刊）.</li></p>
 </ol>
 <hr>
 
