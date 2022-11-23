@@ -84,7 +84,7 @@
 ## 2019
 <ol>
   <!--33-->
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b>/font>Jiaying Wang, Yaochi Zhao, Yu Wang, Wei Chen, Hui Li, Yugui Han and <b>Zhuhua Hu*</b>. <i><u>Marked Watershed Algorithm Combined with Morphological Preprocessing Based Segmentation of Adherent Spores [C].</u></i><font color="green">International Conference in Communications, Signal Processing, and Systems. Springer, Singapore,</font> 2019: 1316-1323. (EI会议)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Jiaying Wang, Yaochi Zhao, Yu Wang, Wei Chen, Hui Li, Yugui Han and <b>Zhuhua Hu*</b>. <i><u>Marked Watershed Algorithm Combined with Morphological Preprocessing Based Segmentation of Adherent Spores [C].</u></i><font color="green">International Conference in Communications, Signal Processing, and Systems. Springer, Singapore,</font> 2019: 1316-1323. (EI会议)</li></p>
  
  <<!--35-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b>/font>
