@@ -215,27 +215,27 @@ Yaochi Zhao, <b>Zhuhua Hu*</b>, Yong Bai, Xingzi Liu and Xiyang Liu.<i><u> Multi
 <ol>
    
  <!--36-->
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font><b>Zhuhua Hu</b>, Yiran Zhang, Yaochi Zhao *, Mingshan Xie, Jiezhuo Zhong, Zhigang Tu and Juntao Liu. <i><u>A Water Quality Prediction Method Based on the Deep LSTM Network Considering Correlation in Smart Mariculture [J].</u></i> <font color="green">Sensors,</font> 2019, 19(6): 1420. (SCI 3区, IF= 3.031).
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font><b>Zhuhua Hu</b>, Yiran Zhang, Yaochi Zhao *, Mingshan Xie, Jiezhuo Zhong, Zhigang Tu and Juntao Liu. <i><u>A Water Quality Prediction Method Based on the Deep LSTM Network Considering Correlation in Smart Mariculture [J].</u></i> <font color="green">Sensors,</font> 2019, 19(6): 1420. (SCI 3区, IF= 3.031).</li></p>
    
    
 
   <!--34-->
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Xin Xia, Yaochi Zhao, <b>Zhuhua Hu*</b>, Zezhong Wang, Chuang Yu ,Yong Bai. <i><u>Fish Behavior Tracking Algorithm Based on Multi-Domain Deep Convolutional Neural Network [C].</u></i><font color="green"> 2019 4th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2019),</font> Guang Zhou, China, May 10-12, 2019. (EI会议)
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>Xin Xia, Yaochi Zhao, <b>Zhuhua Hu*</b>, Zezhong Wang, Chuang Yu ,Yong Bai. <i><u>Fish Behavior Tracking Algorithm Based on Multi-Domain Deep Convolutional Neural Network [C].</u></i><font color="green"> 2019 4th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2019),</font> Guang Zhou, China, May 10-12, 2019. (EI会议)</li></p>
 </ol>
 ## 2018
 <ol>
  
 <!--37-->
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE]</b></font>Juntao Liu, Chuang Yu, <b>Zhuhua Hu*</b>, Yaochi Zhao, Xin Xia and Ruoqing Li.  <i><u>Automatic and Accurate Prediction of Key Water Quality Parameters Based on SRU Deep Learning in Mariculture[C]</u></i><font color="green">2018 IEEE International Conference on Advanced Manufacturing (ICAM).</font>  IEEE,2018: 437-440. (EI会议)
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE]</b></font>Juntao Liu, Chuang Yu, <b>Zhuhua Hu*</b>, Yaochi Zhao, Xin Xia and Ruoqing Li.  <i><u>Automatic and Accurate Prediction of Key Water Quality Parameters Based on SRU Deep Learning in Mariculture[C]</u></i><font color="green">2018 IEEE International Conference on Advanced Manufacturing (ICAM).</font>  IEEE,2018: 437-440. (EI会议)</li></p>
  
  <!--38-->
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE]</b></font><b>Zhuhua Hu</b>, Boyi Liu*, Yaochi Zhao, Mengxing Huang, Yong Bai and Fusheng Lin.<i><u> Recognition of Pyralidae Insects with Unmanned Monitoring Robot Based on Histogram Reverse Mapping and Invariant Moment[C].</u></i><font color="green">2018 IEEE International Conference on Advanced Manufacturing (ICAM).</font> IEEE, 2018: 407-410. (EI会议) 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE]</b></font><b>Zhuhua Hu</b>, Boyi Liu*, Yaochi Zhao, Mengxing Huang, Yong Bai and Fusheng Lin.<i><u> Recognition of Pyralidae Insects with Unmanned Monitoring Robot Based on Histogram Reverse Mapping and Invariant Moment[C].</u></i><font color="green">2018 IEEE International Conference on Advanced Manufacturing (ICAM).</font> IEEE, 2018: 407-410. (EI会议) </li></p>
 
 </ol>
 ## 2015
 <ol>
  <!--54-->
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>赵瑶池, <b>胡祝华</b>.<i><u> 基于嵌入式 Linux 平台的网络视频点播系统[J]. </u></i><font color="green">西部广播电视,</font> 2015 (17): 256-256.
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font>赵瑶池, <b>胡祝华</b>.<i><u> 基于嵌入式 Linux 平台的网络视频点播系统[J]. </u></i><font color="green">西部广播电视,</font> 2015 (17): 256-256.</li></p>
 </ol>
 ## 2014
 <ol>
