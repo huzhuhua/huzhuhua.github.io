@@ -273,8 +273,9 @@ Kejia Huo, <b>Zhuhua Hu*</b>, Dake Liu*. <i><u>Rate Matching and Interleaved Har
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font>  
 Xinyu Xie, <b>Zhuhua Hu*</b>, Min Chen, Yaochi Zhao, Yong Bai. <i><u>An Active and Passive Reputation Method for Secure Wideband Spectrum Sensing Based on Blockchain[J].</u></i><font color="green"> Electronics,</font> 2021, 10(11): 1346. (SCI, 中科院3区，if：2.412) 基金：Grant No. 61963012</li></p>
   
-
-  
+<!--5G&6G移动通信方向、频谱感知  5-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font> 
+Xiaokang Xiong, Yuhang Dai, <b>Zhuhua Hu*</b>, Kejia Huo, Yong Bai, Hui Li, Dake Liu, <i><u>Hardware Sharing for Channel Interleavers in 5G NR Standard [J], </u></i><font color="green">Security and Communication Networks,</font> 2021. (SCI 4区, IF= 1.376, CCF C类) 基金：Grant No. 61963012 </li></p>
   
   
  </ol>
@@ -288,13 +289,44 @@ Xinyu Xie, <b>Zhuhua Hu*</b>, Min Chen, Yaochi Zhao, Yong Bai. <i><u>An Active a
 </ol>
 ## 2018
 <ol>
+<!--5G&6G移动通信方向、频谱感知  6-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font> 
+<b>Zhuhua Hu</b>, Yong Bai *, Mengxing Huang, Mingshan Xie and Yaochi Zhao. <i><u>A Self-Adaptive Progressive Support Selection Scheme for Collaborative Wideband Spectrum Sensing [J].</u></i><font color="green"> Sensors,</font> 2018, 18(9): 3011. (SCI 3区, IF= 3.031) DOI:10.3390/s18093011.</li></p>
+ 
+ <!--5G&6G移动通信方向、频谱感知  6-->
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font> 
+ <b>Hu Z</b>, Bai Y, Huang M, et al. <i><u>A Self-Adaptive Progressive Support Selection Scheme for Collaborative Wideband Spectrum Sensing[J].</u></i><font color="green">  Sensors,</font> 2018, 18(9): 3011.</li></p>
+ 
+ <!--5G&6G移动通信方向、频谱感知  7-->
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> 
+ <b> Zhuhua Hu</b>, Yong Bai*, Lu Cao, Mengxing Huang, and Mingshan Xie, <i><u>A Sequential Compressed Spectrum Sensing Algorithm against SSDH Attack in Cognitive Radio Networks [J],</u></i><font color="green">  Journal of Electrical and Computer Engineering,</font> vol. 2018, 2018. (EI)</li></p>
 
+ 
+ 
 </ol>
-## 2015
+## 2017
 <ol>
-
+<!--5G&6G移动通信方向、频谱感知  9-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI]</b></font> 
+ <b>Zhuhua Hu</b>, Yong Bai*, Yaochi Zhao, and Mingshan Xie. <i><u>Adaptive and blind wideband spectrum sensing scheme using singular value decomposition [J]. </u></i><font color="green">Wireless Communications and Mobile Computing, 2017.</font> (SCI 4区, IF 1.89, CCF C类). </li></p>
 </ol>
-## 2014
+ 
+<!--5G&6G移动通信方向、频谱感知  10-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> 
+<b>Zhuhua Hu#</b>, Yong Bai*, Yaochi Zhao, Yiran Zhang. <i><u>Support Recovery for Multiband Spectrum Sensing Based on Modulated Wideband Converter with SwSOMP Algorithm,</u></i><font color="green"> The 1st EAI International Conference on 5G for Future Wireless Networks,</font> 5GWN 2017, Beijing, P.R. China, 2017.04.21-04.23. (EI).</li></p>
+## 2016
 <ol>
+ 
+<!--5G&6G移动通信方向、频谱感知  11-->
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> 
+<b>Zhuhua Hu#,</b> Yugui Han, Lu Cao, Yong Bai*, and Yaochi Zhao. <i><u>A CWMN Spectrum Allocation Based on Multi-Strategy Fusion Glowworm Swarm Optimization Algorithm,</u></i><font color="green"> 9th EAI International Wireless Internet Conference, WICON 2016,</font> Haikou, P.R. China, 2016.12.19-12.20. ( EI已收录)</li></p>
+ 
+</ol>
+
+<ol>
+ <!--5G&6G移动通信方向、频谱感知  12-->
+ 
 
 </ol>
+
+
