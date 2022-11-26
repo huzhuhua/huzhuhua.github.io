@@ -6,7 +6,7 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xihong Yang, Xiaochang Hu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/TNNLS22-Interpolation%20based%20Contrastive%20Learning%20for%20Few%20Label%20SemiSupervised%20Learning.pdf">[PDF]</a></li></p> 
 -->
  
- <!  --1-2022-1-->
+ <!--1-2022-1-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> Yuexin Fu, Bing Han, <b>Zhuhua Hu*</b>, Xiuqiang Shen, Yaochi Zhao. <i><u>CBAM-SLAM: A semantic SLAM based on attention module in dynamic environment [C].</u></i><font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.<a href =  ">[PDF]</a></li></p>
  
 
