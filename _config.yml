@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "huzhuhua / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "胡祝华"
 description              : &description "personal description"
-url                      : https://supper-zh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huzhuhua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "张贺"
-  avatar           : "self.png"
+  name             : "胡祝华"
+  avatar           : "profile.png"
   bio              : "哈哈哈哈哈哈哈"
   location         : "海南海口"
-  employer         : "研究生"
+  employer         : "教授"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "2319036435@qq.com"
