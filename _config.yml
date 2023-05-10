@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "huzhuhua / Site Title"
+title                    : "Hu ZhuHua`s Personal HomePage"
 title_separator          : "-"
 name                     : &name "胡祝华"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hu ZhuHua（胡祝华）"
-  avatar           : "profile.png"
+  avatar           : "huzhuhua.png"
   bio              : "哈哈哈哈哈哈哈"
   location         : "海南海口"
   employer         : "教授"
