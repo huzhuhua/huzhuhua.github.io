@@ -83,13 +83,13 @@ author:
   name             : "Hu ZhuHua（胡祝华）"
   avatar           : "huzhuhua.png"
   bio              : "Zhuhua Hu is now a professor at Hainan University. His current research interests include artificial intelligence, signal and information processing."
-  location         : "海南海口"
-  employer         : "教授"
+  location         : "Haikou, Hainan, China"
+  employer         : # "教授"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "2319036435@qq.com"
+  email            : "eagler_hu@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://huzhuhua.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
