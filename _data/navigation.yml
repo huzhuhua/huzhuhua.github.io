@@ -3,20 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Rewards" # 成果奖励
     url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
+  - title: "Copyright" # 知识产权
+    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Portfolio" # 作品集
     url: /portfolio/
         
-  - title: "Blog Posts"
+  # - title: "Blog Posts" # 主持和参与课题：
+  #   url: /year-archive/
+  - title: "Projects" # 主持和参与课题：
     url: /year-archive/
     
-  - title: "CV"
+  - title: "CV" # 履历
     url: /cv/
     
-  - title: "Guide"
+  - title: "Guide" 
     url: /markdown/

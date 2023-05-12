@@ -193,7 +193,8 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# Defaults Using the default key in _config.yml you could set the layout and enable author profiles, 
+# reading time, comments, social sharing, and related posts for all posts — in one shot.
 defaults:
   # _posts
   - scope:
