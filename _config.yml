@@ -48,6 +48,10 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+  # 额外添加
+search: true  # 启用站点范围搜索
+lunr:
+  search_within_pages: true  # 建立一个所有文章和文档的搜索索引
 
 # SEO Related
 google_site_verification :
@@ -57,7 +61,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -85,33 +89,33 @@ author:
   bio              : "Zhuhua Hu is now a professor at Hainan University. His current research interests include artificial intelligence, signal and information processing."
   location         : "Haikou, Hainan, China"
   employer         : # "教授"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "eagler_hu@163.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://huzhuhua.github.io"
+  researchgate     : # https://www.researchgate.net/ # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : # "https://huzhuhua.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/huzhuhua"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :

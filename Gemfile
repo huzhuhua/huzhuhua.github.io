@@ -1,4 +1,7 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
+source "https://gems.ruby-china.com"
+# gem 'tzinfo-data', git: 'https://github.com/tzinfo/tzinfo-data.git', ref: 'master'
+# gem install tzinfo-data --source https://gems.ruby-china.com
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -8,7 +11,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
+gem 'tzinfo-data'
+# gem 'tzinfo-data', platforms: [:mingw, :mswin]
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
@@ -25,3 +30,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.8"
