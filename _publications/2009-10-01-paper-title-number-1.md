@@ -10,6 +10,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 
 ### [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
 ### 人工智能、图像处理与计算机视觉方向：
 [1]Xingming Luo, Yaochi Zhao*, Zhuhua Hu, Yanfei Zhu, Jiezhuo Zhong. Defense against reconstruction attacks in Split Federated Learning through decreasing correlation between input and activations[C]// the 2023 International Joint Conference on Neural Networks (IJCNN 2023), June 18 - 23, 2023, Queensland, Australia, 2023. (EI, CCF C)
@@ -96,4 +97,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 1.彭金莲, 胡祝华, 郑兆华, 等. 网络工程专业“3+1”模块化课程体系的创新研究[J]. 海南大学学报(自然科学版),2013,31(01):74-79.
 2.赵瑶池, 胡祝华*, 陈明锐, 等. 以计算思维为导向的大学 “计算机基础” 课程教学改革研究[J]. 海南大学学报: 自然科学版, 2014, 32(4): 383-388.
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+

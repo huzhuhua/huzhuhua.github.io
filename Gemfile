@@ -14,7 +14,7 @@ source "https://gems.ruby-china.com"
 gem 'tzinfo-data'
 # gem 'tzinfo-data', platforms: [:mingw, :mswin]
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins # 
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

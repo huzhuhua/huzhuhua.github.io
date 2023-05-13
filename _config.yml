@@ -11,9 +11,9 @@ title                    : "Hu ZhuHua`s Personal HomePage"
 title_separator          : "-"
 name                     : &name "胡祝华"
 description              : &description "personal description"
-url                      : https://huzhuhua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://huzhuhua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huzhuhua/huzhuhua.github.io"
+repository               : "huzhuhua/huzhuhua.github.io" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,8 +50,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   # 额外添加
 search: true  # 启用站点范围搜索
-lunr:
-  search_within_pages: true  # 建立一个所有文章和文档的搜索索引
+# lunr:
+#   search_within_pages: true  # 建立一个所有文章和文档的搜索索引
 
 # SEO Related
 google_site_verification :
