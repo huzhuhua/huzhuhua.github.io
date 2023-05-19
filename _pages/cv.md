@@ -33,7 +33,7 @@ redirect_from:
 * 主要工程应用领域：计算机视觉与图像处理、智能机器人应用、物联网与智慧农业、海洋信息感知与处理、移动通信。
 
 
-# 系统性研究
+## 系统性研究
 <!-- 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
