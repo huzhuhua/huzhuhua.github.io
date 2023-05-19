@@ -1,0 +1,42 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<ul class="taxonomy__index">
+  <!-- 将博客文章按年份进行分组，并排除隐藏的文章。 -->
+  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  <!-- 遍历每个年份，创建一个链接，显示年份和对应的文章数量。 -->
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+<!-- 获取页面的 entries_layout 参数的值，默认为 'list'。 -->
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<!-- 遍历每个年份，创建一个包含文章列表的部分。 -->
+{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+<!-- 创建一个带有对应年份 ID 的节(section)。 -->
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      <!-- 遍历该年份下的每篇文章，使用归档文章模板进行显示。 -->
+      {% for post in year.items %}
+        {% include archive-single-cv.html type=entries_layout %}
+        <!-- 原始样式： -->
+        <!-- {% include archive-single.html type=entries_layout %} -->
+      {% endfor %}
+    </div>
+    <!--  添加一个回到顶部的链接。 -->
+    {% include base_path %}
+    <a href="/year-archive/" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    <!-- <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a> -->
+  </section>
+{% endfor %}
