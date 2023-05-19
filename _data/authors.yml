@@ -1,0 +1,21 @@
+# Authors
+
+Hu ZhuHua:
+  name        : "Hu ZhuHua"
+  uri         : "https://sice.hainanu.edu.cn/info/1143/2522.htm"
+  email       : "eagler_hu@163.com"
+  bio         : "This is the first name."
+  avatar      : "huzhuhua.png"
+  # avatar      : "bio-photo-2.jpg"
+  github      : "https://github.com/huzhuhua"
+  # twitter     : "name"
+  # google_plus : "name"
+  googlescholar : "https://scholar.google.com.hk/citations?hl=zh-CN&user=-5x1pM4AAAAJ"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "name"

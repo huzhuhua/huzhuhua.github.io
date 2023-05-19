@@ -1,226 +1,31 @@
-# panthera-jekyll
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
-[![Gem Version](https://badge.fury.io/rb/panthera-jekyll.svg)](https://badge.fury.io/rb/panthera-jekyll)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
-<!-- [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JT-red.svg)](https://jekyll-themes.com) -->
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-*panthera-jekyll is a Jekyll theme for GitHub Pages and Jekyll sites. You can [preview the theme to see what it looks like](https://demothemes.github.io/panthera-jekyll), or even [use it today](#installation).*
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-<div style="text-align: center;">
-  <img src="/screenshot.png" alt="panthera-jekyll" style="width: 100%; max-width: 750px;" />
-</div>
+# Instructions
 
-## Installation
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-### Building a Jekyll Site
+See more info at https://academicpages.github.io/
 
-Add this line to your Jekyll site's `Gemfile`:
+## To run locally (not on GitHub Pages, to serve on your own computer)
 
-```ruby
-gem "panthera-jekyll"
-```
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-And add this line to your Jekyll site's `_config.yml`:
+# Changelog -- bugfixes and enhancements
 
-```yaml
-theme: panthera-jekyll
-```
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install panthera-jekyll
-
-### Building a Github Page
-
-Add this line to your Github Page's `_config.yml`:
-
-```yaml
-remote_theme: christianezeani/panthera-jekyll
-```
-
-## Customizing
-
-### Configuration variables
-
-panthera-jekyll will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site or Profile Name]
-subtitle: [A brief subtitle or job title]
-description: [A short description of your site's purpose]
-```
-
-To configure the left side set the following variables as shown below:
-
-```yml
-left_side:
-  background_image: [Absolute or relative image url]
-  background_color: [CSS background color, e.g. "#F00". We strongly recommend quoting this value. Don't worry about the transparency of the background, we've taken care of that.]
-  close_button_color: [CSS background color, e.g. "#F00". We strongly recommend quoting this value.]
-  text_color: [CSS background color, e.g. "#F00". We strongly recommend quoting this value.]
-```
-
-#### Example
-
-```yml
-left_side:
-  background_image: "./assets/images/left-background.jpg"
-  background_color: "#F00"
-  close_button_color: "#F00"
-  text_color: "#F00"
-```
-
-To configure side menu, set the following variables:
-
-```yml
-menu:
-  - text: [Menu text]
-    link: [Relative page link with the '/' prefix]
-    icon: [Menu Icon]
-```
-
-#### Example
-
-```yml
-menu:
-  - text: Portfolio
-    link: /
-    icon: ""
-
-  - text: Skills & Offers
-    link: /skills-and-offers
-    icon: ""
-```
-
-To configure social links, set the following variables:
-
-```yml
-social_icons:
-  - name: [Socialmedia title]
-    link: [Social link]
-    icon: [Icon class]
-```
-
-#### Example
-
-```yml
-social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
-
-  - name: github
-    link: https://github.com/christianezeani
-    icon: fab fa-github-square
-```
-
-To configure footer, set the following variables:
-
-```yml
-footer:
-  copyright_text: [The copyright text. Value should be quoted]
-```
-
-#### Example
-
-```yml
-footer:
-  copyright_text: "&copy; Christian Ezeani"
-```
-
-panthera-jekyll currently supports the following icons:
-
-* [FontAwesome](https://fontawesome.com) (version 5.9.0)
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-
-2. Add the following content to the top of the file, exactly as shown:
-
-    ```scss
-    ---
-    ---
-
-    @import "panthera-jekyll";
-    ```
-
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
-
-## Blog Posts
-
-### Creating Posts
-
-To create a post, add a file to your `_posts` directory with the following format:
-
-```
-YEAR-MONTH-DAY-title.MARKUP
-```
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. For example, the following are examples of valid post filenames:
-
-```
-2020-07-10-new-years-eve-is-awesome.md
-```
-
-```md
----
-layout: post
-title: First Demo Post
-date: 2020-07-10 13:32:20 +0300
-description: Post description (optional)
-image: /image.jpg (optional)
-tags: [Holidays, Hawaii]
----
-
-Post content here
-```
-
-### Displaying an index of posts
-
-1. Create a page, e.g. `posts.md`, with the following content:
-
-```md
----
-layout: post
----
-
-# PAGE TITLE HERE
-
-{% include posts/index.html %}
-```
-
-2. Add a link to the left pane in your `_config.yml`
-
-```yml
-menu:
-  ...
-  - text: Blog Posts
-    link: /posts
-    icon: ""
-```
-
-...and you're good
-
-More post features are coming soon. To get updates on new features, hit the `Watch` button at the top of this page to get notifications.
-
-If you love this project, kindly hit the `Star` button at the top of this page.
-
-Follow me on [Github](//github.com/christianezeani) to see more of my projects.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisitanezeani/panthera-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org) code of conduct.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
