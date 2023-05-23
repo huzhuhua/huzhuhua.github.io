@@ -51,9 +51,21 @@ AcademicPages
 ```
 
 # 站点配置
-    站点的主配置文件位于_config.yml中的基目录中，它定义了侧边栏中的内容和站点范围内的其他特性。你需要将默认变量替换为关于你自己和你网站的github仓库的变量。顶部菜单的配置文件位于_data/navigation.yml中。
+    · 主配置文件位于_config.yml中的基目录中，它定义了侧边栏中的内容和站点范围内的其他特性。
+    · 顶部菜单的配置文件位于_data/navigation.yml中。
 
 ## 本地运行（开发和调试）
+    1. 将仓库克隆到本地
+       1. 
+    Make sure you have ruby-dev, bundler, and nodejs installed: sudo apt install ruby-dev ruby-bundler nodejs
+    确保你已经安装了ruby-dev，bundler和nodejs：sudo apt install ruby-dev ruby-bundler nodejs
+    Run bundle clean to clean up the directory (no need to run --force)
+    运行bundle clean清理目录（不需要运行--force）
+    Run bundle install to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+    运行bundle install安装ruby依赖项。如果你得到错误，删除Gemfile.lock并重试。
+    Run bundle exec jekyll liveserve to generate the HTML and serve it from localhost:4000 the local server will automatically rebuild and refresh the pages on change.
+    运行bundle exec jekyll liveserve生成HTML并从localhost:4000提供，本地服务器将自动重建并刷新更改的页面。
+
 1. 将仓库克隆到本地
 2. 在项目根目录下打开终端，Run `bundle install` to install ruby dependencies. 
 3. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
