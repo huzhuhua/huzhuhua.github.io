@@ -56,7 +56,7 @@ AcademicPages
 ## 本地运行（开发和调试）
 1. 将仓库克隆到本地
 2. 在项目根目录下打开终端，Run `bundle install` to install ruby dependencies. 
-3. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+3. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 ```
 也可以之间在github仓库直接编辑修改和调试。
