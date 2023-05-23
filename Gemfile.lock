@@ -280,7 +280,6 @@ DEPENDENCIES
   jekyll-archives
   jekyll-feed
   jekyll-gist
-  jekyll-paginate
   jekyll-redirect-from
   jekyll-remote-theme
   jekyll-sitemap

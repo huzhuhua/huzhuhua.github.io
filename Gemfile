@@ -22,7 +22,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'tzinfo', '~> 1.2', '>= 1.2.9'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'jekyll-paginate'
+# gem 'jekyll-paginate'
 gem 'jekyll-gist'
 gem 'jekyll-redirect-from'
 gem 'kramdown-parser-gfm'

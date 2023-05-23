@@ -6,9 +6,7 @@ permalink: /research/research-4
 type: "Workshop"
 # type: "research"
 excerpt: "Multi-target detection in complex backgrounds, accurate instance segmentation in dense environments and characters measurement"
-# venue: ""  # 指定会议的地点
-# date: 2020-03-01
-# location: "Los Angeles, CA"
+
 ---
 <div id="top"></div>
 
@@ -23,16 +21,9 @@ excerpt: "Multi-target detection in complex backgrounds, accurate instance segme
 4. 农业病虫害智能监控工作：
    在研究计算机视觉算法和模型的基础上，针对病虫和病害的智能分割与检测识别取得了一些进展。首先，构建了病虫的智能分割与检测模型；其次，构建了病害孢子的智能检测方法；最后，基于这些模型和方法研制了一套可自主建图和导航的病虫害智能检测机器小车。
 <br>
-
-<!-- <a name="01"></a>
-## Multi-target detection in complex backgrounds, accurate instance segmentation in dense environments and characters measurement （复杂背景下的目标检测，超密集环境下的精准实例分割及特征测量） -->
 # 相关成果
-
 ## 2022
 <ol>
-
-<!-- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xihong Yang, Xiaochang Hu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/TNNLS22-Interpolation%20based%20Contrastive%20Learning%20for%20Few%20Label%20SemiSupervised%20Learning.pdf">[PDF]</a></li></p>  -->
-
  <!--1-2022-1-->
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EI]</b></font> Yuexin Fu, Bing Han, <b>Zhuhua Hu*</b>, Xiuqiang Shen, Yaochi Zhao. <i><u>CBAM-SLAM: A semantic SLAM based on attention module in dynamic environment [C].</u></i><font color="green"> The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, October 28-30 2022</font>. (已录用) (EI) 基金：Grant no. 61963012 and 62161010 and Grant no. ZDYF2022SHFZ039.<a href = " ">[PDF]</a></li></p>
  

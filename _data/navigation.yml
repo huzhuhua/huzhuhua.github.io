@@ -1,7 +1,5 @@
 # main links links
 main:
-  # - title: "Resume" # 个人简历
-  #   url: /cv/
   - title: "简介" # 个人简历
     url: /about/
   - title: "消息" # 最新消息

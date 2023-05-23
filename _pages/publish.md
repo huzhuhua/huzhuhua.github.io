@@ -3,8 +3,10 @@ permalink: /publish/
 title: "成果发表"
 author_profile: true
 excerpt: "成果发表"
+
 toc: true  # 生成目录
 toc_icon: "cog"
+
 redirect_from: 
   - /papers.html
 ---

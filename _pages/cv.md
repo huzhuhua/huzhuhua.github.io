@@ -2,7 +2,6 @@
 layout: archive
 title: "Resume"
 permalink: /  # 首页
-# permalink: /cv/
 excerpt: "个人简历"
 author_profile: true
 ---
