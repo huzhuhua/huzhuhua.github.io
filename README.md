@@ -55,10 +55,10 @@ AcademicPages
     · 顶部菜单的配置文件位于_data/navigation.yml中。
 
 ## 本地运行（开发和调试）
-    1. 将仓库克隆到本地
-       1. 
-    Make sure you have ruby-dev, bundler, and nodejs installed: sudo apt install ruby-dev ruby-bundler nodejs
-    确保你已经安装了ruby-dev，bundler和nodejs：sudo apt install ruby-dev ruby-bundler nodejs
+1. 将仓库克隆到本地
+   image.png
+2. 确保你已经安装了ruby-dev，bundler和nodejs：
+   sudo apt install ruby-dev ruby-bundler nodejs
     Run bundle clean to clean up the directory (no need to run --force)
     运行bundle clean清理目录（不需要运行--force）
     Run bundle install to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
@@ -66,9 +66,9 @@ AcademicPages
     Run bundle exec jekyll liveserve to generate the HTML and serve it from localhost:4000 the local server will automatically rebuild and refresh the pages on change.
     运行bundle exec jekyll liveserve生成HTML并从localhost:4000提供，本地服务器将自动重建并刷新更改的页面。
 
-1. 将仓库克隆到本地
-2. 在项目根目录下打开终端，Run `bundle install` to install ruby dependencies. 
-3. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+3. 将仓库克隆到本地
+4. 在项目根目录下打开终端，Run `bundle install` to install ruby dependencies. 
+5. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 ```
 也可以之间在github仓库直接编辑修改和调试。
