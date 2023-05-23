@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /  # 首页
+# permalink: /cv/
 excerpt: "个人简历"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 <!-- <a href="#top" class="up-to-top">Back to Top</a> -->
 

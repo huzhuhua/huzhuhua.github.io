@@ -1,11 +1,9 @@
 ---
-permalink: /    # /cv/ 
-title: "About me"
+permalink: /about/    # /cv/ 
+title: "Brief Bio (简介)"
 excerpt: "首页，个人简历"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 <!-- 
 <p>

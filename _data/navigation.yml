@@ -1,16 +1,26 @@
 # main links links
 main:
-  - title: "Resume" # 个人简历
-    url: /cv/
-  - title: "Research"  # 系统性工作
+  # - title: "Resume" # 个人简历
+  #   url: /cv/
+  - title: "简介" # 个人简历
+    url: /about/
+  - title: "消息" # 最新消息
+    url: /news/
+  - title: "系统性工作"  # 系统性的工作
     url: /research/    
-  - title: "Publications" # 论文发表
-    url: /papers/
-  - title: "Projects"  # 主持和参与课题
+  - title: "成果发表" # 论文发表
+    url: /publish/
+  - title: "软硬件系统" # 论文发表
+    url: /sys/
+  - title: "课题建设"  # 主持和参与课题
     url: /projects/
-  - title: "Accomplishments" # 教材和专著,知识产权
+  - title: "获奖和荣誉" # 教材和专著,知识产权 Awards and honors （获奖和荣誉）
     url: /accomplishments/ 
-  - title: "Academic"  #  Academic service社会服务和学术兼职Social Service and Academic Part-time
+  - title: "学术服务"  #  Academic service社会服务和学术兼职Social Service and Academic Part-time
     url: /portfolio/
   - title: "Competitions"   # 指导学生参加竞赛获奖情况
     url: /competition/ 
+  - title: "团队成员"  
+    url: /groupmembers/ 
+  - title: "合作者"  
+    url: /friends/ 

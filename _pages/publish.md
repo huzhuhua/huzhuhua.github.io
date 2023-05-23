@@ -1,8 +1,8 @@
 ---
-permalink: /papers/
-title: "论文"
+permalink: /publish/
+title: "成果发表"
 author_profile: true
-excerpt: "论文汇总"
+excerpt: "成果发表"
 toc: true  # 生成目录
 toc_icon: "cog"
 redirect_from: 
@@ -10,19 +10,39 @@ redirect_from:
 ---
 
 <div id="top"></div>
-<a href="#top" class="up-to-top">Back to Top</a>
-
 
 <!-- # Publications -->
 * 目录
 {:toc}
+<a href="#top" class="up-to-top">Back to Top</a>
 
 <!-- 另一种方式： -->
 <!-- - [人工智能、图像处理与计算机视觉方向](#人工智能图像处理与计算机视觉方向)
 - [5G\&6G移动通信方向、频谱感知](#5g6g移动通信方向频谱感知)
 - [教改类](#教改类) -->
 
-## 人工智能、图像处理与计算机视觉方向
+
+## 教材
+
+1. 十二五规划教材 《C语言程序设计（第二版）》 中国农业出版社 完成。2012-07-15出版 isbn：978-7-109-16850-3 编写第四章（总54.2万字，2.6万字）。
+2. 十二五规划教材 《C语言程序设计实验教程》 中国农业出版社 完成。2012-07-15出版 isbn：978-7-109-16866-4 编写第4、9章（总33.2万字，6.9万字）。
+3. 张红、胡祝华主编， 《Java程序设计案例教程》,高等教育出版社，2019年.8月。（“十三五”国家级规划教材），ISBN：978-7-04-051472-8，CIP核准字：2019037891。 46.2万
+
+## 专著
+
+1. 王振龙，胡祝华.《物联网与通信技术的理论与实践探索》. 电子科技大学出版社. 2019.10, ISBN: 978-7-5647-5451-8.CIP核准号：2018009134，29.8万。
+2. 白勇，胡祝华编著. 《GNU Radio软件无线电技术》. 科学出版社. 256千字，2017.01, ISBN: 978-7-0305-0757-0。CIP核准号：2016279409。
+3. 胡祝华、赵瑶池著.《计算机视觉与机器学习技术在智慧农业中的应用研究》， 哈尔滨工业大学出版社，ISBN: 978-7-5603-8053-7, CIP核准号：2019045734，2019.3, 39.1万字.
+4. 黄霞（主编），胡祝华（副主编）.《现代软件架构与模式解析研究》，哈尔滨工业大学出版社，2019.04，ISBN: 978-7-5603-8107-7。CIP核准字:2019067884，2019.4。35.5万字
+5. Zhuhua Hu. “Agricultural Robots - Fundamentals and Applications”, 2019.1. ISBN: 978-1-78984-934-9. 著作章节：Agricultural Robot for Intelligent Detection of Pyralidae Insects. IntechOpen, London, UK.
+Zhou J, Zhang B. Agricultural Robots-Fundamentals and Applications [J]. 2019.
+Hu Z, Liu B, Zhao Y. Agricultural Robot for Intelligent Detection of Pyralidae Insects [J]. 2018.
+6. 周星，陈敏，白勇，胡祝华，谭毓银，《下一代互联网新技术理论与实践》，科学出版社，2022.11. ISBN: 978-7-03-072720-6
+
+## 论文
+
+### 人工智能、图像处理与计算机视觉方向
+
 1. Xingming Luo, Yaochi Zhao*, Zhuhua Hu, Yanfei Zhu, Jiezhuo Zhong. Defense against reconstruction attacks in Split Federated Learning through decreasing correlation between input and activations[C]// the 2023 International Joint Conference on Neural Networks (IJCNN 2023), June 18 - 23, 2023, Queensland, Australia, 2023. (EI, CCF C)
 
 2. Yuexin Fu, Bing Han, Zhuhua Hu*, Xiuqiang Shen, Yaochi Zhao. CBAM-SLAM: A semantic SLAM based on attention module in dynamic environment [C]// The 6th Asian Conference on Artificial Intelligence Technology (ACAIT 2022), Changzhou, China, December 10-12 2022. (EI) 
@@ -89,7 +109,7 @@ redirect_from:
 58. 胡祝华，付宏. 以客户为中心的基于CMM的软件需求模型及应用[J].计算机应用研究, 第22卷 2005：599-601 2005.6.15.(增刊) (中文核心)
 
 
-## 5G&6G移动通信与频谱感知方向
+### 5G&6G移动通信与频谱感知方向
 
 1. Xianghui Li, Zhuhua Hu*, Chong Shen, Huaming Wu*, Yaochi Zhao, TFF_aDCNN: A Pre-trained Base Model for Intelligent Wideband Spectrum Sensing [J], IEEE Transactions on Vehicular Technology, 2023. (SCI 中科院2区, Top, IF 6.239)
 2. Kejia Huo, Zhuhua Hu*, Dake Liu. Design and Implementation of Shared Memory for Turbo and LDPC Code Interleaver[J], Wireless Communications & Mobile Computing, 2022. (SCI 4区， CCF C) 
@@ -111,7 +131,7 @@ redirect_from:
 18. Mingshan Xie, Mengxing Huang, Yong Bai, Zhuhua Hu, and Yanfang Deng. Sparse Sensor Placement for Interpolated Data Reconstruction Based on Iterative Four Subregions in Sensor Networks, Journal of Sensors, 2019. (SCI 4区, IF2.057)
 19. Mingshan Xie, Mengxing Huang, Yong Bai, Zhuhua Hu, and Yanfang Deng, A Robust Data Interpolation based on Back Propagation Artificial Neural Network Operator for Incomplete Acquisition in Wireless Sensor Networks, Journal of Sensors, 2018. (SCI 4区, IF2.057)
 
-## 教改类
+### 教改类
 1. 彭金莲, 胡祝华, 郑兆华, 等. 网络工程专业“3+1”模块化课程体系的创新研究[J]. 海南大学学报(自然科学版),2013,31(01):74-79.
 2. 赵瑶池, 胡祝华*, 陈明锐, 等. 以计算思维为导向的大学 “计算机基础” 课程教学改革研究[J]. 海南大学学报: 自然科学版, 2014, 32(4): 383-388.
   
