@@ -276,7 +276,6 @@ DEPENDENCIES
   faraday-retry
   github-pages
   hawkins
-  jekyll
   jekyll-archives
   jekyll-feed
   jekyll-gist

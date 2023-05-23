@@ -2,36 +2,15 @@
 main:
   - title: "Resume" # 个人简历
     url: /cv/
-
   - title: "Research"  # 系统性工作
     url: /research/    
-  # - title: "Research"
-  #   url: /talks/    
-  # - title: "Publications"
-  #   url: /year-archive/
-
   - title: "Publications" # 论文发表
     url: /papers/
-  
-  # - title: "Projects" 
-  #   url: /publications/
   - title: "Projects"  # 主持和参与课题
     url: /projects/
-  # - title: "Projects"  # 主持和参与课题
-  #   url: /publication/
-
   - title: "Accomplishments" # 教材和专著,知识产权
-    url: /accomplishments/
-
-  # - title: "知识产权"   # 知识产权（Intellectual Property Rights）
-  #   url: /teaching/    
-    
+    url: /accomplishments/ 
   - title: "Academic"  #  Academic service社会服务和学术兼职Social Service and Academic Part-time
     url: /portfolio/
-        
-
-  # - title: "reward"   # 成果奖励Achievement Reward and Acknowledgement
-  #   url: /markdown/
-   
   - title: "Competitions"   # 指导学生参加竞赛获奖情况
     url: /competition/ 
