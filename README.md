@@ -64,3 +64,16 @@ AcademicPages
 ## 导航页
 _data\navigation.yml
 
+_config.yml
+# 定义集合（collections）的属性和设置。
+
+```
+#Collections
+collections:
+  teaching:
+    output: true  # output: true表示该集合的内容需要输出（即生成页面）
+    permalink: /:collection/:path/  # permalink: /:collection/:path/ 定义了该集合的永久链接格式。
+    # 这里使用了占位符（placeholder），其中 :collection 表示集合名称，而 :path 表示集合中每个文档的路径。
+    # 这个设置意味着生成的页面链接将以 "/集合名称/文档路径/" 的形式呈现。
+    # 如果有一个名为 "teaching" 的集合，并且在该集合下有一个名为 "lesson1" 的文档，那么该文档的永久链接将是 "/teaching/lesson1/"
+```

@@ -17,10 +17,12 @@ main:
   - title: "获奖和荣誉" # 教材和专著,知识产权 Awards and honors （获奖和荣誉）
     url: /accomplishments/ 
   - title: "学术服务"  #  Academic service社会服务和学术兼职Social Service and Academic Part-time
-    url: /portfolio/
-  - title: "Competitions"   # 指导学生参加竞赛获奖情况
-    url: /competition/ 
+    url: /services/
   - title: "团队成员"  
     url: /groupmembers/ 
+  # - title: "团队成员"  
+  #   url: /groupmembers1/ 
   - title: "合作者"  
     url: /friends/ 
+  - title: "竞赛"   # 指导学生参加竞赛获奖情况
+    url: /competition/ 
