@@ -88,7 +88,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Hongxu Zhou
+          Hengxu Zhou
         </div>
         <div>
           Doctoral students
