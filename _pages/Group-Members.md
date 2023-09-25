@@ -44,7 +44,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Yaochi Zhao</a>
+          Yaochi Zhao
         </div>
         <div>
           Associate Professor Doctoral Supervisor
@@ -55,7 +55,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Hangzhou Qu</a>
+          Hangzhou Qu
         </div>
         <div>
           Doctoral students
@@ -66,7 +66,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Wei Wu</a>
+          Wei Wu
         </div>
         <div>
           Doctoral students
@@ -77,7 +77,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Lanlan Liang</a>
+          Lanlan Liang
         </div>
         <div>
           Doctoral students
@@ -88,7 +88,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Hongxu Zhou</a>
+          Hongxu Zhou
         </div>
         <div>
           Doctoral students
@@ -99,7 +99,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Hao Qi</a>
+          Hao Qi
         </div>
         <div>
           Postgraduate
@@ -117,7 +117,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Yunfeng Xiang</a>
+          Yunfeng Xiang
         </div>
         <div>
           Postgraduate
@@ -128,7 +128,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Guohua Yao</a>
+          Guohua Yao
         </div>
         <div>
           Postgraduate
@@ -139,7 +139,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Jiaqi Wu</a>
+          Jiaqi Wu
         </div>
         <div>
           Postgraduate
@@ -150,7 +150,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Junfei Chen</a>
+          Junfei Chen
         </div>
         <div>
           Postgraduate
@@ -161,7 +161,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Dupeng Cai</a>
+          Dupeng Cai
         </div>
         <div>
           Postgraduate
@@ -172,7 +172,7 @@ type: posts
           <img width="130" height="185" src="/groupmember/profile.png">
         </div>
         <div>
-          Kunkun Ding</a>
+          Kunkun Ding
         </div>
         <div>
           Postgraduate
