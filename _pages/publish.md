@@ -145,7 +145,7 @@ a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zh
 15.	Mingshan Xie, Yong Bai*, Mengxing Huang and Zhuhua Hu. Multi-order Fusion Data Privacy-Preserving Scheme for Wireless Sensor Networks [J]. Journal of Electrical and Computer Engineering, 2017. (EI)
 
 
-### 其他人工智能、信息安全方向：
+### 其他人工智能、信息安全方向
 1.	Luo X, Zhao Y, Hu Z, et al. Defense Against Reconstruction Attacks in Split Federated Learning Through Decreasing Correlation Between Inputs and Activations[C]//2023 International Joint Conference on Neural Networks (IJCNN). IEEE, 2023: 1-8. (安全方向) （CCF C）
 2.	Yanfei Zhu, Yaochi Zhao, Zhuhua Hu, Xiaozhang Liu, Anli Yan. Zeroth-Order Gradient Approximation Based DaST for Black-Box Adversarial Attacks [C]// International Conference on Intelligent Computing (ICIC 2023), Singapore: Springer Nature Singapore, 2023: 442-453. (安全方向) （CCF C）
 3.	Zhao Y, Yu D, Hu Z. A Dynamic Resampling Based Intrusion Detection Method[C]//International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2023: 454-465. (安全方向) （CCF C）
@@ -158,7 +158,7 @@ a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zh
 10.	赵瑶池, 胡祝华. 基于嵌入式 Linux 平台的网络视频点播系统[J]. 西部广播电视, 2015 (17): 256-256.
 11.	Xie, M., Deng, Y., Bai, Y., Huang, M., Jiang, W., & Hu, Z. The computing of optimized clustering threshold values based on quasi-classes space for the merchandise recommendation [C]// 2017 18th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT), Taipei, Taiwan, 18-20 December 2017, pp.217-222. (EI)
 
-### 教改类：
+### 教改类
 1.	彭金莲, 胡祝华, 郑兆华, 等. 网络工程专业“3+1”模块化课程体系的创新研究[J]. 海南大学学报(自然科学版),2013,31(01):74-79.
 2.	赵瑶池, 胡祝华*, 陈明锐, 等. 以计算思维为导向的大学 “计算机基础” 课程教学改革研究[J]. 海南大学学报: 自然科学版, 2014, 32(4): 383-388.
 

@@ -11,4 +11,4 @@ collection: services
 * 会议网址: <a href= "http://iccde.org/index.html">[ICCDE 2023]
 </a>
 <br>
-<img src='/images/ICCDE.jpg'>
+<img src='/images/services/ICCDE.jpg'>
