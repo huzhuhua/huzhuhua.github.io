@@ -3,7 +3,7 @@ permalink: /accomplishments/
 title: "Awards and honors （获奖和荣誉）"
 classes: wide
 # author_profile: false
-excerpt: "专著、教材、知识产权及奖励"
+excerpt: "获奖和荣誉"
 toc: true  # 生成目录
 toc_icon: "cog" 
 # tags: 

@@ -6,9 +6,9 @@ main:
     url: /news/
   - title: "系统性工作"  # 系统性的工作
     url: /research/    
-  - title: "成果发表" # 论文发表
+  - title: "论文著作" # 论文发表
     url: /publish/
-  - title: "软硬件系统" # 论文发表
+  - title: "知识产权" # 知识产权
     url: /sys/
   - title: "课题建设"  # 主持和参与课题
     url: /projects/
@@ -18,9 +18,7 @@ main:
     url: /services/
   - title: "团队成员"  
     url: /groupmembers/ 
-  # - title: "团队成员"  
-  #   url: /groupmembers1/ 
-  #- title: "合作者"  
-  #  url: /friends/ 
-  - title: "竞赛"   # 指导学生参加竞赛获奖情况
+  # - title: "合作者"  
+  #   url: /friends/ 
+  - title: "学生竞赛"   # 指导学生参加竞赛获奖情况
     url: /competition/ 

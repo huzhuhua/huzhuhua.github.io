@@ -41,18 +41,18 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Yaochi Zhao
         </div>
         <div>
-          Associate Professor Doctoral Supervisor
+          Associate Professor Doctorial Tutor
         </div>
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Hangzhou Qu
@@ -63,7 +63,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Wei Wu
@@ -74,7 +74,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Lanlan Liang
@@ -85,7 +85,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Hengxu Zhou
@@ -96,7 +96,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Hao Qi
@@ -114,7 +114,7 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Yunfeng Xiang
@@ -125,7 +125,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Guohua Yao
@@ -136,7 +136,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Jiaqi Wu
@@ -147,7 +147,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Junfei Chen
@@ -158,7 +158,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Dupeng Cai
@@ -169,7 +169,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/profile.png">
         </div>
         <div>
           Kunkun Ding

@@ -1,9 +1,9 @@
 ---
 permalink: /sys/
-title: "Software and hardware （软硬件系统）"
+title: "知识产权"
 classes: wide
 # author_profile: false
-excerpt: "软硬件系统"
+excerpt: "知识产权"
 toc: true  # 生成目录
 toc_icon: "cog"
 # tags: 
