@@ -20,7 +20,7 @@ main:
     url: /groupmembers/ 
   # - title: "团队成员"  
   #   url: /groupmembers1/ 
-  - title: "合作者"  
-    url: /friends/ 
+  #- title: "合作者"  
+  #  url: /friends/ 
   - title: "竞赛"   # 指导学生参加竞赛获奖情况
     url: /competition/ 
