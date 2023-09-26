@@ -26,35 +26,32 @@ redirect_from:
 
 ## 教材
 
-1.	十二五规划教材 《C语言程序设计（第二版）》 中国农业出版社 完成。2012-07-15出版 isbn：978-7-109-16850-3 编写第四章（总54.2万字，2.6万字）。
-2.	十二五规划教材 《C语言程序设计实验教程》 中国农业出版社 完成。2012-07-15出版 isbn：978-7-109-16866-4 编写第4、9章（总33.2万字，6.9万字）。
-3.	张红、胡祝华主编， 《Java程序设计案例教程》,高等教育出版社，2019年.8月。（“十三五”国家级规划教材），ISBN：978-7-04-051472-8，CIP核准字：2019037891。 46.2万字。
-4.	邱钊、赵瑶池、胡祝华等，《Java程序设计实用教程》， 2023.
+1.	邱钊、赵瑶池、胡祝华等，《Java程序设计实用教程》， 2023.
+2.	张红、胡祝华主编， 《Java程序设计案例教程》,高等教育出版社，2019年.8月。（“十三五”国家级规划教材），ISBN：978-7-04-051472-8，CIP核准字：2019037891。 46.2万字。
+3.	十二五规划教材 《C语言程序设计实验教程》 中国农业出版社 完成。2012-07-15出版 isbn：978-7-109-16866-4 编写第4、9章（总33.2万字，6.9万字）。
+4.	十二五规划教材 《C语言程序设计（第二版）》 中国农业出版社 完成。2012-07-15出版 isbn：978-7-109-16850-3 编写第四章（总54.2万字，2.6万字）。
 
 ## 专著
 
-1. 王振龙，胡祝华.《物联网与通信技术的理论与实践探索》. 电子科技大学出版社. 2019.10, ISBN: 978-7-5647-5451-8.CIP核准号：2018009134，29.8万。
-2. 白勇，胡祝华编著. 《GNU Radio软件无线电技术》. 科学出版社. 256千字，2017.01, ISBN: 978-7-0305-0757-0。CIP核准号：2016279409。
+1. 周星，陈敏，白勇，胡祝华，谭毓银，《下一代互联网新技术理论与实践》，科学出版社，2022.11. ISBN: 978-7-03-072720-6
+2. 王振龙，胡祝华.《物联网与通信技术的理论与实践探索》. 电子科技大学出版社. 2019.10, ISBN: 978-7-5647-5451-8.CIP核准号：2018009134，29.8万。
 3. 胡祝华、赵瑶池著.《计算机视觉与机器学习技术在智慧农业中的应用研究》， 哈尔滨工业大学出版社，ISBN: 978-7-5603-8053-7, CIP核准号：2019045734，2019.3, 39.1万字.
 4. 黄霞（主编），胡祝华（副主编）.《现代软件架构与模式解析研究》，哈尔滨工业大学出版社，2019.04，ISBN: 978-7-5603-8107-7。CIP核准字:2019067884，2019.4。35.5万字
 5. Zhuhua Hu. “Agricultural Robots - Fundamentals and Applications”, 2019.1. ISBN: 978-1-78984-934-9. 著作章节：Agricultural Robot for Intelligent Detection of Pyralidae Insects. IntechOpen, London, UK.
 Zhou J, Zhang B. Agricultural Robots-Fundamentals and Applications [J]. 2019.
 Hu Z, Liu B, Zhao Y. Agricultural Robot for Intelligent Detection of Pyralidae Insects [J]. 2018.
-6. 周星，陈敏，白勇，胡祝华，谭毓银，《下一代互联网新技术理论与实践》，科学出版社，2022.11. ISBN: 978-7-03-072720-6
+6. 白勇，胡祝华编著. 《GNU Radio软件无线电技术》. 科学出版社. 256千字，2017.01, ISBN: 978-7-0305-0757-0。CIP核准号：2016279409。
 
 ## 论文
 
 ### 图像处理、计算机视觉专业方向
 
-<!-- 1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J]. IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP) -->
-<!-- <a href="https://ieeexplore.ieee.org/abstract/document/10251126">1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J]. IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP)</a> -->
 1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., <a href="https://ieeexplore.ieee.org/abstract/document/10251126">Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J].</a> IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP)
-2.	Yaochi Zhao, Sen Chen, Qiong Chen, Zhuhua Hu*, COMBINING LOSS REWEIGHTING AND SAMPLE RESAMPLING FOR LONG-TAILED INSTANCE SEGMENTATION[C]. 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP2023), 4-6 June, Rhodes Island, Greece, 2023. (EI, CCF B)
+2.	Yaochi Zhao, Sen Chen, Qiong Chen, Zhuhua Hu*, <a href="https://ieeexplore.ieee.org/abstract/document/10094303">COMBINING LOSS REWEIGHTING AND SAMPLE RESAMPLING FOR LONG-TAILED INSTANCE SEGMENTATION[C].</a> 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP2023), 4-6 June, Rhodes Island, Greece, 2023. (EI, CCF B)
 3.	Pan Gao, Zhuhua Hu*. ASHN For Multi-Human Pose Estimation [C]. The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, December 10-12 2022. (已发表) (EI) 
 4.	Yongyi Ye, Zhuhua Hu*. ECI: Effective Channel Interaction for Person Search [C]. The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, December 10-12 2022. (已发表) (EI) 
 5.	Hui Ma, Zhuhua Hu*, Yan Zheng. A Virtual Try-on Model with Enhanced Feature Representation Capability [C]. The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, December 10-12 2022. (已发表) (EI) 
-6.	trans余创跨光谱图像补丁匹配-多分支特征差异学习网络
-a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zhuhua, Multi-branch Feature Difference Learning Network for Cross-Spectral Image Patch Matching[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022. (SCI 1区，if:5.6, top)
+6.	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zhuhua, <a href="https://ieeexplore.ieee.org/abstract/document/9777946">Multi-branch Feature Difference Learning Network for Cross-Spectral Image Patch Matching[J].</a> IEEE Transactions on Geoscience and Remote Sensing, 2022. (SCI 1区，if:5.6, top)
 7.	Yun Chu, Pu Li, Yong Bai*, Zhuhua Hu, Yongqing Chen, Jiafeng Lu, Group channel pruning and spatial attention distilling for object detection[J]. Applied Intelligence, 2022: 1-19. (SCI 2区，IF:5.086) 
 8.	Yutong Dai, Chong Zhang, Zhuhua Hu*, Yaochi Zhao, RF2Net: Salient Object Detection Using Level Set Loss and Reverse Attention Fusion Feed Network[C]// The 14th International Conference on Digital Image Processing (ICDIP 2022), Wuhan, China, 2022.5.20-23. (EI)
 9.	Yaochi Zhao, Shiguang Liu*, Zhuhua Hu. Dynamically balancing class losses in imbalanced deep learning[J]. Electronics Letters, 2022, 58(5): 203-206. (SCI)
@@ -73,17 +70,16 @@ a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zh
 
 ### 遥感，船舶小目标、模糊目标和异常行为检测方向
 
-1.	Wu W, Li X, Hu Z, et al. Ship Detection and Recognition Based on Improved YOLOv7[J]. Computers, Materials & Continua, 2023, 76(1). (中科院SCI 4区)
-2.	Yu Chuang, Liu Yunpeng*,Wu Shuhang, Hu Zhuhua, Xia Xin, Lan Deyan, Liu Xin. Infrared Small Target Detection Based on Multiscale Local Contrast Learning Networks[J]. Infrared Physics & Technology, 2022: 104107. （中科院2区 SCI，if：2.638）
-3.	Chuang Yu, Yunpeng Liu, Shuhang Wu, Xin Xia, Zhuhua Hu, Deyan Lan and Xin Liu, Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection[J]. IEEE GEOSCIENCE AND REMOTE SENSING LETTERS, 2022. (中科院SCI 2区，if 3.966) 
-
+1.	Chuang Yu, Yunpeng Liu, Shuhang Wu, Xin Xia, Zhuhua Hu, Deyan Lan and Xin Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9785618">Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection[J].</a> IEEE GEOSCIENCE AND REMOTE SENSING LETTERS, 2022. (中科院SCI 2区，if 3.966) 
+2.	Yu Chuang, Liu Yunpeng*,Wu Shuhang, Hu Zhuhua, Xia Xin, Lan Deyan, Liu Xin. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1350449522000883">Infrared Small Target Detection Based on Multiscale Local Contrast Learning Networks[J].</a> Infrared Physics & Technology, 2022: 104107. （中科院2区 SCI，if：2.638）
+3.	Wu W, Li X, Hu Z, et al. <a href="https://cdn.techscience.cn/files/cmc/2023/TSP_CMC-76-1/TSP_CMC_39929/TSP_CMC_39929.pdf">Ship Detection and Recognition Based on Improved YOLOv7[J].</a> Computers, Materials & Continua, 2023, 76(1). (中科院SCI 4区)
 
 ### 智慧农业-水产养殖方向
-1.	Fan Yang, Yongjie Zhong *, Hui Yang, Yi Wan, Zhuhua Hu, Shengsen Peng, Microbial Colony Detection Based on Deep Learning [J], Applied Sciences-Basel, 2023.08.  (中科院SCI 3区)
-2.	Qiying Wang, Fangfang Zhang, Mengfan Zhang, Kunpu Zhang, Yaqian Zhang*, Guanjun Wang*, Zhuhua Hu and Qian Deng. FP Interferometric Optic Fiber Humidity Sensor Based on Acrylate AB Adhesive Film [J]. Photonics, 2023. (SCI 3区，IF 2.4)
-3.	Chuang Yu, Zhuhua Hu*, Bing Han, Yutong Dai, Yaochi Zhao, Yingjun Deng, An Intelligent Measurement Scheme for Basic Characters of Fish in Smart Aquaculture, Computers and Electronics in Agriculture, 2023. ( (中科院SCI 1区 top，if 6.757) 
-4.	Bing Han, Zhuhua Hu*, Zhengwei Su, Xueru Bai, Shuzhuang Yin, Jian Luo, Yaochi Zhao. Mask_LaC R-CNN for measuring morphological features of fish, Measurement, 2022, 203: 111859. (中科院SCI 2区，IF:5.131) 
-5.	Zijie Chen, Zhuhua Hu*, Lewei Xu, Yaochi Zhao*, Xiaoyi Zhou, DA-Bi-SRU for Water Quality Prediction in Smart Mariculture [J], Computers and Electronics in Agriculture, 2022, 200: 107219. (中科院SCI 1区，top，if 6.757) 
+1.	Chuang Yu, Zhuhua Hu*, Bing Han, Yutong Dai, Yaochi Zhao, Yingjun Deng, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168169922008146">An Intelligent Measurement Scheme for Basic Characters of Fish in Smart Aquaculture</a>, Computers and Electronics in Agriculture, 2023.  (中科院SCI 1区 top，if 6.757) 
+2.	Fan Yang, Yongjie Zhong *, Hui Yang, Yi Wan, Zhuhua Hu, Shengsen Peng, Microbial Colony Detection Based on Deep Learning [J]. Applied Sciences-Basel, 2023.08.  (中科院SCI 3区)
+3.	Qiying Wang, Fangfang Zhang, Mengfan Zhang, Kunpu Zhang, Yaqian Zhang*, Guanjun Wang*, Zhuhua Hu and Qian Deng. FP Interferometric Optic Fiber Humidity Sensor Based on Acrylate AB Adhesive Film [J]. Photonics, 2023. (SCI 3区，IF 2.4)
+4.	Zijie Chen, Zhuhua Hu*, Lewei Xu, Yaochi Zhao*, Xiaoyi Zhou, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168169922005300">DA-Bi-SRU for Water Quality Prediction in Smart Mariculture [J].</a> Computers and Electronics in Agriculture, 2022, 200: 107219. (中科院SCI 1区，top，if 6.757) 
+5.	Bing Han, Zhuhua Hu*, Zhengwei Su, Xueru Bai, Shuzhuang Yin, Jian Luo, Yaochi Zhao. Mask_LaC R-CNN for measuring morphological features of fish, Measurement, 2022, 203: 111859. (中科院SCI 2区，IF:5.131) 
 6.	Lewei Xu, Zhuhua Hu*, Cong Zhang, Wei Wu. Remote Sensing Image Segmentation of Mariculture Cage Using Ensemble Learning Strategy[J]. Applied Sciences-Basel, 2022, 12(16): 8234. (中科院SCI 3区，if 2.838) 
 7.	Yu, Chuang; Liu, yunpeng; Xia, Xin*; Hu, Zhuhua*; Fu, Shengpeng. Precise segmentation of remote sensing cage images based on SegNet and voting mechanism[J], Applied Engineering in Agriculture, 2022：0. (SCI, 4区, 0.985) 
 8.	Chuang Yu, Yunpeng Liu*, Zhuhua Hu, Xin Xia. Precise segmentation and measurement of inclined fish’s features based on U-net and fish morphological characteristics[J]. Applied Engineering in Agriculture, 2022, 38(1): 37-48. (SCI, 中科院4区，if: 0.985) 
@@ -95,11 +91,9 @@ a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zh
 13.	Yuexin Fu, Zhuhua Hu*, Yaochi Zhao, Mengxing Huang*. A Long-Term Water Quality Prediction Method Based on the Temporal Convolutional Network in Smart Mariculture[J]. Water, 2021, 13(20): 2907. (SCI, 中科院3区，if：3.530) 
 14.	Xianghui Li, Xin Xia, Zhuhua Hu*, Bing Han, Yaochi Zhao*. Intelligent Detection of Underwater Fish Speed Characteristics Based on Deep Learning [C]. the 5th Asian Conference on Artificial Intelligence Technology in Haikou,China (ACAIT 2021), Haikou,China, October 29-31 2021. (EI) 
 15.	Chuang Yu, Zhuhua Hu*, Bing Han, Peng Wang, Yaochi Zhao*, Huaming Wu. Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-net [J]. Electronics, 2021, 10(12), 1426. (SCI, 中科院3区，if：2.412)
-	Yu, C.; Hu, Z.; Han, B.; Wang, P.; Zhao, Y.; Wu, H. Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-Net. Electronics 2021, 10, 1426. https://doi.org/10.3390/electronics10121426
 16.	Zhuhua Hu, Ruoqing Li, Xin Xia, Chuang Yu, Xiang Fan, Yaochi Zhao. Hu Z, Li R, Xia X, et al. A method overview in smart aquaculture[J]. Environmental Monitoring and Assessment, 2020, 192(8): 1-25. (SCI, 中科院4区，IF: 1.959) https://doi.org/10.1007/s10661-020-08409-9  
 17.	Chuang Yu, Xiang Fan, Zhuhua Hu*, Xin Xia, Yaochi Zhao, Yong Bai and Ruoqing Li. Segmentation and Measurement Scheme for Fish Morphological Features Based on Mask R-CNN [J]. Information Processing in Agriculture, 2020, 7(4): 523-534.. (EI) 
 18.	Chuang Yu, Zhuhua Hu*, Ruoqing Li, Xin Xia, Yaochi Zhao, Xiang Fan, Yong Bai. Segmentation and Density Statistics of Mariculture Cages from Remote Sensing Images Based on Mask R-CNN [J]. Information Processing in Agriculture, 2021, doi: https://doi.org/10.1016/j.inpa.2021.04.013. (EI) 
-	C. Yu, Z. Hu, R. Li, X. Xia, Y. Zhao, X. Fan, Y. Bai, Segmentation and Density Statistics of Mariculture Cages from Remote Sensing Images Using Mask R-CNN [J], Information Processing in Agriculture (2021), doi: https://doi.org/10.1016/j.inpa.2021.04.013
 19.	Juntao Liu, Chuang Yu, Zhuhua Hu*, Yaochi Zhao, Yong Bai, Mingshan Xie, Jian Luo, Accurate Prediction Scheme of Water Quality in Smart Mariculture With Deep Bi-S-SRU Learning Network [J], IEEE Access, vol. 8, pp. 24784-24798, 2020. (SCI, 2区，IF:4.098) 
 20.	Xin Xia, Yaochi Zhao, Zhuhua Hu*, Zezhong Wang, Chuang Yu ,Yong Bai. Fish Behavior Tracking Algorithm Based on Multi-Domain Deep Convolutional Neural Network [C]// 2019 4th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2019), Guang Zhou, China, May 10-12, 2019. (EI会议)
 21.	Zhuhua Hu, Yiran Zhang, Yaochi Zhao *, Mingshan Xie, Jiezhuo Zhong, Zhigang Tu and Juntao Liu. A Water Quality Prediction Method Based on the Deep LSTM Network Considering Correlation in Smart Mariculture [J]. Sensors, 2019, 19(6): 1420. (SCI 3区, IF= 3.031). 
@@ -113,7 +107,7 @@ a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zh
 29.	Mingshan Xie, Mengxing Huang, Yong Bai, and Zhuhua Hu. The anonymization protection algorithm based on fuzzy clustering for the ego of data in the internet of things [J], Journal of Electrical and Computer Engineering, vol. 2017, Article ID 2970673, 10 pages, 2017. doi:10.1155/2017/2970673. (EI) 
 
 ### 智慧农业-病虫害智能监控方向
-1.	Chong Zhang, Zhuhua Hu*, Lewei Xu, Yaochi Zhao. A YOLOv7 incorporating the Adan optimizer based corn pests identification method [J]. Frontiers in Plant Science, 2023. (SCI 1区 TOP, 已发表)
+1.	Chong Zhang, Zhuhua Hu*, Lewei Xu, Yaochi Zhao. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2023.1174556/full">A YOLOv7 incorporating the Adan optimizer based corn pests identification method [J].</a> Frontiers in Plant Science, 2023. (SCI 1区 TOP, 已发表)
 2.	谢鑫宇会议 ACAIT 2021  Xinyu Xie, Jiaying Wang, Zhuhua Hu*, Yaochi Zhao*. Intelligent Detection of Mango Disease Spores Based on Mask Scoring R-CNN [C]. the 5th Asian Conference on Artificial Intelligence Technology in Haikou,China (ACAIT 2021), Haikou,China, October 29-31 2021. (EI) 
 3.	Yaochi Zhao, Fusheng Lin, Shiguang Liu*, Zhuhua Hu, Hui Li, Yong Bai. Constrained-Focal-Loss based Deep Learning for Segmentation of Spores [J]. IEEE Access, vol. 7, pp. 165029 – 165038, 2019. (SCI，2区，IF: 4.098) 
 4.	Yaochi Zhao, Shiguang Liu*, Zhuhua Hu, Yong Bai, Chong Shen, Xuequn Shi, Separate degree based Otsu and signed similarity driven level set for segmenting and counting anthrax spores[J]. Computers and Electronics in Agriculture, vol. 169: 105230, 2020.  (SCI, 1区，IF: 6.757) 
@@ -128,20 +122,17 @@ a)	Yu, Chuang; Liu, yunpeng*; Li, Chenxi; Qi, Lin; Xia, Xin; Liu, Tianci; Hu, Zh
 
 ### 频谱感知与移动通信方向
 1.	Guohua Yao and Zhuhua Hu*. SNR Estimation Method based on SRS and DINet. In Proceedings of the 2023 15th International Conference on Computer Modeling and Simulation (ICCMS '23). ACM, Dalian, China, June 16-18 2023, PP. 218–224. （EI）
-2.	Xianghui Li, Zhuhua Hu*, Chong Shen, Huaming Wu*, Yaochi Zhao, TFF_aDCNN: A Pre-trained Base Model for Intelligent Wideband Spectrum Sensing [J], IEEE Transactions on Vehicular Technology, 2023. (SCI 中科院2区, top, IF 6.239)
+2.	Xianghui Li, Zhuhua Hu*, Chong Shen, Huaming Wu*, Yaochi Zhao, <a href="https://ieeexplore.ieee.org/abstract/document/10114605">TFF_aDCNN: A Pre-trained Base Model for Intelligent Wideband Spectrum Sensing [J],</a> IEEE Transactions on Vehicular Technology, 2023. (SCI 中科院2区, top, IF 6.239)
 3.	Kejia Huo, Zhuhua Hu*, Dake Liu. Design and Implementation of Shared Memory for Turbo and LDPC Code Interleaver[J], Wireless Communications & Mobile Computing, 2022. (SCI 4区) 基金：Grant No. 61963012 and Grant no. 62161010
 4.	Kejia Huo, Zhuhua Hu*, Dake Liu*. Rate Matching and Interleaved Hardware Sharing Design [C].  the 2021 IEEE the 4th International Conference on Electronics and Communication Engineering (ICECE2021), IEEE, Xi'an, China, December 17-19, 2021. (EI) 基金：(Grant No. 61963012 and Grant No. 62161010).
 5.	Xinyu Xie, Zhuhua Hu*, Min Chen, Yaochi Zhao, Yong Bai. An Active and Passive Reputation Method for Secure Wideband Spectrum Sensing Based on Blockchain[J]. Electronics, 2021, 10(11): 1346. (SCI, 中科院3区，if：2.412) 基金：Grant No. 61963012
 6.	Xiaokang Xiong, Yuhang Dai, Zhuhua Hu*, Kejia Huo, Yong Bai, Hui Li, Dake Liu, Hardware Sharing for Channel Interleavers in 5G NR Standard [J], Security and Communication Networks, 2021. (SCI 4区, IF= 1.376, CCF C类) 基金：Grant No. 61963012
 7.	Zhuhua Hu, Yong Bai *, Mengxing Huang, Mingshan Xie and Yaochi Zhao. A Self-Adaptive Progressive Support Selection Scheme for Collaborative Wideband Spectrum Sensing [J]. Sensors, 2018, 18(9): 3011. (SCI 3区, IF= 3.031) DOI:10.3390/s18093011.
-	Hu Z, Bai Y, Huang M, et al. A Self-Adaptive Progressive Support Selection Scheme for Collaborative Wideband Spectrum Sensing[J]. Sensors, 2018, 18(9): 3011. 
 8.	Zhuhua Hu, Yong Bai*, Lu Cao, Mengxing Huang, and Mingshan Xie, A Sequential Compressed Spectrum Sensing Algorithm against SSDH Attack in Cognitive Radio Networks [J], Journal of Electrical and Computer Engineering, vol. 2018, 2018. (EI)
 9.	宋剑文,白勇*,胡祝华,唐冰.压缩感知联合多属性关联的数据恢复算法[J].计算机工程, 2018, 44(04):103-107+114. (中文核心)
-10.	Zhuhua Hu, Yong Bai*, Yaochi Zhao, and Mingshan Xie. Adaptive and blind wideband spectrum sensing scheme using singular value decomposition [J]. Wireless Communications & Mobile Computing, 2017. (SCI 4区, IF 1.89, CCF C类). 
-	Zhuhua Hu, Yong Bai, Yaochi Zhao, Chong Shen, and Mingshan Xie, “Adaptive and Blind Wideband Spectrum Sensing Scheme Using Singular Value Decomposition,” Wireless Communications and Mobile Computing, vol. 2017, Article ID 3279452, 14 pages, 2017. https://doi.org/10.1155/2017/3279452.
+10.	Zhuhua Hu, Yong Bai*, Yaochi Zhao, and Mingshan Xie. Adaptive and blind wideband spectrum sensing scheme using singular value decomposition [J]. Wireless Communications & Mobile Computing, 2017. (SCI 4区, IF 1.89, CCF C类). https://doi.org/10.1155/2017/3279452.
 11.	Zhuhua Hu#, Yong Bai*, Yaochi Zhao, Yiran Zhang. Support Recovery for Multiband Spectrum Sensing Based on Modulated Wideband Converter with SwSOMP Algorithm, The 1st EAI International Conference on 5G for Future Wireless Networks, 5GWN 2017, Beijing, P.R. China, 2017.04.21-04.23. (EI).
 12.	Zhuhua Hu#, Yugui Han, Lu Cao, Yong Bai*, and Yaochi Zhao. A CWMN Spectrum Allocation Based on Multi-Strategy Fusion Glowworm Swarm Optimization Algorithm, 9th EAI International Wireless Internet Conference, WICON 2016, Haikou, P.R. China, 2016.12.19-12.20. ( EI已收录)
-	Hu Z., Han Y., Cao L., Bai Y., Zhao Y. (2016) A CWMN Spectrum Allocation Based on Multi-strategy Fusion Glowworm Swarm Optimization Algorithm. In: Huang M., Zhang Y., Jing W., Mehmood A. (eds) Wireless Internet. WICON 2016. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 214. Springer, Cham
 13.	胡祝华#，白勇*，杜文才，赵瑶池，东方，遗传算法在认知无线电频谱分配中的应用综述，2014年全国无线电应用与管理学术会议，CRAM’14，海口，中国，2014.12.20-12.21，2014:259-265.
 14.	Mingshan Xie, Yanfang Deng, Yong Bai, Mengxing Huang, Zhuhua Hu. Research on the pre-distribution model based on the seesaw model [C], The 8th International Symposium on Parallel Architectures, Algorithms and Programming, PAAP2017, Haikou, P.R. China, 2017.06.10-06.11. (EI)
 15.	Mingshan Xie, Yong Bai*, Mengxing Huang and Zhuhua Hu. Multi-order Fusion Data Privacy-Preserving Scheme for Wireless Sensor Networks [J]. Journal of Electrical and Computer Engineering, 2017. (EI)
