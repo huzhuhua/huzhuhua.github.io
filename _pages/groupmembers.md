@@ -41,10 +41,10 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/zhaoyaochi.jpg">
+          <img width="130" height="185" src="/images/groupmember/zhaoyaochi.png">
         </div>
         <div>
-          赵瑶池
+          <a href="https://hd.hainanu.edu.cn/scscs/info/1052/1884.htm">赵瑶池</a>
         </div>
         <div>
           副教授、博士生导师
@@ -96,7 +96,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/qihao.png">
         </div>
         <div>
           齐浩
@@ -125,7 +125,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/yaoguohua.jpg">
+          <img width="130" height="185" src="/images/groupmember/yaoguohua.png">
         </div>
         <div>
           姚国华
@@ -147,7 +147,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/chenjunfei.jpg">
+          <img width="130" height="185" src="/images/groupmember/chenjunfei.png">
         </div>
         <div>
           陈俊霏
@@ -220,7 +220,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/lujunlin.jpg">
+          <img width="130" height="185" src="/images/groupmember/lujunlin.png">
         </div>
         <div>
           卢俊霖
@@ -231,7 +231,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/lishijiang.png">
         </div>
         <div>
           李仕江
@@ -242,7 +242,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/qiwenlu.png">
         </div>
         <div>
           戚文璐
@@ -282,7 +282,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/chenlihang.jpg">
+          <img width="130" height="185" src="/images/groupmember/chenlihang.png">
         </div>
         <div>
           陈立航
@@ -293,7 +293,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/huangzixun.png">
         </div>
         <div>
           黄子勋
@@ -304,7 +304,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/guiyupeng.jpg">
+          <img width="130" height="185" src="/images/groupmember/guiyupeng.png">
         </div>
         <div>
           桂宇鹏
