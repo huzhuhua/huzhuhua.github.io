@@ -46,8 +46,9 @@ Hu Z, Liu B, Zhao Y. Agricultural Robot for Intelligent Detection of Pyralidae I
 
 ### 图像处理、计算机视觉专业方向
 
-<a href="https://ieeexplore.ieee.org/abstract/document/10251126">1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J]. IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP)</a>
 <!-- 1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J]. IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP) -->
+<!-- <a href="https://ieeexplore.ieee.org/abstract/document/10251126">1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J]. IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP)</a> -->
+1.	Yu, C., Liu, Y., Zhao, J., Wu, S., & Hu, Z., <a href="https://ieeexplore.ieee.org/abstract/document/10251126">Feature Interaction Learning Network for Cross-Spectral Image Patch Matching[J].</a> IEEE Transactions on Image Processing, 2023. (SCI 1区 TOP)
 2.	Yaochi Zhao, Sen Chen, Qiong Chen, Zhuhua Hu*, COMBINING LOSS REWEIGHTING AND SAMPLE RESAMPLING FOR LONG-TAILED INSTANCE SEGMENTATION[C]. 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP2023), 4-6 June, Rhodes Island, Greece, 2023. (EI, CCF B)
 3.	Pan Gao, Zhuhua Hu*. ASHN For Multi-Human Pose Estimation [C]. The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, December 10-12 2022. (已发表) (EI) 
 4.	Yongyi Ye, Zhuhua Hu*. ECI: Effective Channel Interaction for Person Search [C]. The 6th Asian Conference on Artificial Intelligence Technology in Haikou, China (ACAIT 2022), Changzhou, China, December 10-12 2022. (已发表) (EI) 

@@ -5,7 +5,7 @@ main:
   - title: "消息" # 最新消息
     url: /news/
   - title: "系统性工作"  # 系统性的工作
-    url: /researchs/    
+    url: /research/    
   - title: "论文著作" # 论文发表
     url: /publish/
   - title: "知识产权" # 知识产权
