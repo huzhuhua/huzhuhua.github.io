@@ -169,7 +169,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/guyanming.png">
         </div>
         <div>
           顾炎铭
@@ -187,7 +187,7 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/fanxiyu.png">
         </div>
         <div>
           范习禹
