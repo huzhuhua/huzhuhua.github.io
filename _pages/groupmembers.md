@@ -198,7 +198,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/caidupeng.png">
         </div>
         <div>
           蔡笃鹏
