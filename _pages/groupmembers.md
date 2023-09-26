@@ -41,7 +41,7 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/赵瑶池.png">
+          <img width="130" height="185" src="/images/groupmember/zhaoyaochi.jpg">
         </div>
         <div>
           赵瑶池
@@ -125,7 +125,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/yaoguohua.jpg">
         </div>
         <div>
           姚国华
@@ -147,7 +147,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/chenjunfei.png">
+          <img width="130" height="185" src="/images/groupmember/chenjunfei.jpg">
         </div>
         <div>
           陈俊霏
@@ -220,7 +220,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/lujunlin.jpg">
         </div>
         <div>
           卢俊霖
@@ -279,6 +279,123 @@ type: posts
         <div>
           硕士研究生
         </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/chenlihang.jpg">
+        </div>
+        <div>
+          陈立航
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <div>
+          黄子勋
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/guiyupeng.jpg">
+        </div>
+        <div>
+          桂宇鹏
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <div>
+          魏天娇
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="100%" border="0" align="left" cellspacing="30">
+  <tbody>
+    <tr valign="top" align="center">
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <div>
+          邓泽坤
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <div>
+          郑润萍
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <div>
+          郭世龙
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <div>
+          刘梓灿
+        </div>
+        <div>
+          硕士研究生
+        </div>
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <!-- <div>
+          \ 
+        </div>
+        <div>
+          \ 
+        </div> -->
+      </td>
+      <td width="16.66%" style="padding-right:30px">
+        <div>
+          <img width="130" height="185" src="/images/groupmember/profile.png">
+        </div>
+        <!-- <div>
+          \
+        </div>
+        <div>
+          \ 
+        </div> -->
       </td>
     </tr>
   </tbody>
