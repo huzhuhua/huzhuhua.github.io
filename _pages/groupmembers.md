@@ -52,7 +52,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/qvhangzhou.png">
         </div>
         <div>
           渠杭州
@@ -74,7 +74,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/lianglanlan.png">
         </div>
         <div>
           梁兰兰
@@ -114,7 +114,7 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/xiangyunfeng.png">
         </div>
         <div>
           项云峰
@@ -136,7 +136,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/wujiaqi.png">
         </div>
         <div>
           吴佳琪
@@ -260,7 +260,7 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/liruoqing.png">
         </div>
         <div>
           李若晴
@@ -333,7 +333,7 @@ type: posts
     <tr valign="top" align="center">
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/dengzekun.png">
         </div>
         <div>
           邓泽坤
@@ -355,7 +355,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/guoshilong.png">
         </div>
         <div>
           郭世龙
@@ -366,7 +366,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/liuzican.png">
         </div>
         <div>
           刘梓灿

@@ -1,6 +1,6 @@
 ---
 permalink: /accomplishments/
-title: "Awards and honors （获奖和荣誉）"
+title: "获奖和荣誉"
 classes: wide
 # author_profile: false
 excerpt: "获奖和荣誉"
