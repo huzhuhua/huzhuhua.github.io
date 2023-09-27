@@ -63,7 +63,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/wuwei.png">
         </div>
         <div>
           吴伟
@@ -158,7 +158,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/sunyifeng.png">
         </div>
         <div>
           孙奕烽
@@ -209,7 +209,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/dingkunkun.png">
         </div>
         <div>
           丁坤坤
@@ -271,7 +271,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/liuguangfeng.png">
         </div>
         <div>
           刘广丰
