@@ -85,7 +85,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/zhouhengxv.png">
         </div>
         <div>
           周恒旭
@@ -315,7 +315,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/weitianjiao.png">
         </div>
         <div>
           魏天娇
@@ -344,7 +344,7 @@ type: posts
       </td>
       <td width="16.66%" style="padding-right:30px">
         <div>
-          <img width="130" height="185" src="/images/groupmember/profile.png">
+          <img width="130" height="185" src="/images/groupmember/zhengrunping.png">
         </div>
         <div>
           郑润萍
