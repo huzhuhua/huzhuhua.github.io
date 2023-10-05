@@ -1,5 +1,5 @@
 ---
-permalink: /sys/
+permalink: /sys-b/
 title: "知识产权"
 classes: wide
 # author_profile: false
