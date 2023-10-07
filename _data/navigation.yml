@@ -10,7 +10,7 @@ main:
     url: /publish/
   - title: "知识产权" # 知识产权
     url: /sys/
-  - title: "课题建设"  # 主持和参与课题
+  - title: "项目研发"  # 主持和参与课题
     url: /projects/
   - title: "获奖和荣誉" # 教材和专著,知识产权 Awards and honors （获奖和荣誉）
     url: /accomplishments/ 
