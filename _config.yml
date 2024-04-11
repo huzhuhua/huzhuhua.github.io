@@ -8,10 +8,10 @@
 # theme                    : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
-locale                   : "zh-CN" # "en-US"
-title                    : "胡祝华教授团队信息"
+locale                   : "en-US" # "en-US zh-CN"
+title                    : "Hu ZhuHua HomePage"
 # title                    : "Hu Zhuhua (胡祝华)"
-subtitle                 : "Professor, Doctorial Tutor <br>Hainan University"  
+subtitle                 : "Professor,Doctorial Tutor <br>Hainan University"  
 title_separator          : "-"
 name                     : "Hu ZhuHua"
 # name                     : &name "胡祝华"
@@ -211,16 +211,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  services:    # 学术服务集合services
-    output: true
-    permalink: /:collection/:path/
-  groupmembers:  # 组成员集合
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-  research:  # 研究集合
+  research:
     output: true
     permalink: /:collection/:path/
   recipes:
@@ -285,15 +279,6 @@ defaults:
   - scope:
       path: ""
       type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _services
-  - scope:
-      path: ""
-      type: services
     values:
       layout: single
       author_profile: true
