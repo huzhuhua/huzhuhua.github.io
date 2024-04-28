@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-# source "https://gems.ruby-china.com/" 
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -22,7 +22,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'tzinfo', '~> 1.2', '>= 1.2.9'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-# gem 'jekyll-paginate'
+gem 'jekyll-paginate'
 gem 'jekyll-gist'
 gem 'jekyll-redirect-from'
 gem 'kramdown-parser-gfm'
