@@ -7,7 +7,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- <a href="#top" class="up-to-top">Back to Top</a> -->
+<a href="#top" class="up-to-top">Back to Top</a> 
 
 {% include base_path %}
 
