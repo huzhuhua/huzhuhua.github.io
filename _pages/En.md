@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "English （课题组最近的消息）"
+title: "English "
 permalink: /En/
 author_profile: true
 type: posts
