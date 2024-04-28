@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /cv/
-excerpt: "Personal Resume"
+title: "English （课题组最近的消息）"
+permalink: /En/
 author_profile: true
-redirect_from:
-  - /resume
+type: posts
 ---
 <!-- <a href="#top" class="up-to-top">Back to Top</a> -->
 

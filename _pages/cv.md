@@ -8,6 +8,19 @@ author_profile: true
 <!-- <a href="#top" class="up-to-top">Back to Top</a> -->
 
 {% include base_path %}
+<!--add-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YML Switcher</title>
+</head>
+<body>
+    <button id="switchButton">Switch YML File</button>
+    <div id="ymlContent"></div>
+    <script src="main.js"></script>
+</body>
+</html>
+<!--add-->
 
 ## 教育与研究经历
 <hr>
