@@ -37,5 +37,5 @@ main:
     url: /competition/ 
 #中英文
   - title: "English"   # 切换英语
-    url: /En 
+    url: /En/
 
