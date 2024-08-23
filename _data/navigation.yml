@@ -35,7 +35,8 @@ main:
    
   - title: "Competitions"   # 指导学生参加竞赛获奖情况
     url: /competition/ 
-
+  - title: "合作伙伴"  
+    url: /friends/ 
   - title: "English"   #
     url: /En/ 
 
